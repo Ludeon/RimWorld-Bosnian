@@ -25,35 +25,35 @@
   <NeedMinerDesc>Izabrali ste da se izvrši rudarenje, ali ni jedan kolonista nije Rudar.\n\nIzaberite kolonistu kao Rudara.</NeedMinerDesc>
 
   <NeedWarden>Potreban nadzornik</NeedWarden>
-  <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
+  <NeedWardenDesc>Imate zatvorenika, ali ni jedan od kolonista nije nadzornik.\n\nIzaberite kolonistu kao Nadzornika.</NeedWardenDesc>
 
-  <LowFood>Low food</LowFood>
-  <LowFoodDesc>You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
+  <LowFood>Malo hrane</LowFood>
+  <LowFoodDesc>Imate opasno malo hrane.\n\n    Full bars worth of food in storage: {0}\n    Kolonisti i zatvorenici koji dobivaju hranu: {1}\n    Days worth of food in storage: {2}\n\nUzgoji, kupi, ili lovi za hranu.</LowFoodDesc>
 
-  <LowMedicine>Low medicine</LowMedicine>
-  <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
-  <NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
+  <LowMedicine>Malo lijekova</LowMedicine>
+  <LowMedicineDesc>Imate samo {0} preostalih lijekova u skladištu.\n\nKupit još hrane od trgovaca.</LowMedicineDesc>
+  <NoMedicineDesc>Nemate lijekova u skladištu.\n\nKupite još lijekova od trgovaca.</NoMedicineDesc>
   
-  <NeedColonistBeds>Need colonist beds</NeedColonistBeds>
-  <NeedColonistBedsDesc>You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly.</NeedColonistBedsDesc>
+  <NeedColonistBeds>Potrebni kreveti za koloniste</NeedColonistBeds>
+  <NeedColonistBedsDesc>Imate više kolonista nego kreveta za njih. Neko neće imati mjesto za spavanje.\n\nIli napravite još kreveta, ili promjenite krevet za zatvorenike u krevet za koloniste.\n\nAko nemate resursa, mjesta za spavanja su besplatna i postavljaju se instantno.</NeedColonistBedsDesc>
 
-  <HunterLacksWeapon>Hunter lacks ranged weapon</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon.</HunterLacksWeaponDesc>
+  <HunterLacksWeapon>Lovcu nedostaje oružje</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Kolonista je izabran kao lovac ali nema oružje na daljinu.\n\nOni neće loviti ako nemaju oružje na daljinu.</HunterLacksWeaponDesc>
 
-  <AlertTatteredApparel>Tattered apparel</AlertTatteredApparel>
-  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+  <AlertTatteredApparel>Poderana odjeća</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>Ovi kolonisti nose poderanu odjeću, što ih unesrečuje:\n\n{0}\nDajte im odjeću koja nije toliko oštećena.\n\nMožete sašiti odjeću na stolu za šivenje, ili kupiti je od trgovaca.</AlertTatteredApparelDesc>
 
-	<AlertUnhappyNudity>Unhappy nudity</AlertUnhappyNudity>
-	<AlertUnhappyNudityDesc>These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertUnhappyNudityDesc>
+	<AlertUnhappyNudity>Nedobrovoljna nagost</AlertUnhappyNudity>
+	<AlertUnhappyNudityDesc>Ovi kolonisti su goli i nisu srećni o tome:\n\n{0}\nDajte im odjeću.\n\nMožete sašiti odjeću na stolu za šivenje, ili kupiti je od trgovaca.</AlertUnhappyNudityDesc>
 
-	<Starvation>Starvation</Starvation>
-  <StarvationDesc>These colonists are starving:\n\n{0}\nGet them some food.</StarvationDesc>
+	<Starvation>Gladovanje</Starvation>
+  <StarvationDesc>Ovi kolonisti gladuju:\n\n{0}\nDajte im nešto hrane.</StarvationDesc>
 
-  <StarvationAnimals>Animal starvation</StarvationAnimals>
-  <StarvationAnimalsDesc>These colony animals are starving:\n\n{0}\nGet them some food.</StarvationAnimalsDesc>
+  <StarvationAnimals>Gladovanje životinje</StarvationAnimals>
+  <StarvationAnimalsDesc>Ove ukročene životinje gladuju:\n\n{0}\nDajte im nešto hrane.</StarvationAnimalsDesc>
 
-  <Exhaustion>Exhaustion</Exhaustion>
-  <ExhaustionDesc>These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
+  <Exhaustion>Iscrpljenost</Exhaustion>
+  <ExhaustionDesc>Ovi kolonisti su iscrpljeni i potreban im je odmor:\n\n{0}\nDajte im da se odmor. Trebat će im krevet koji je označen za koloniste. Isto tako, provjerite da nisu regrutovani.</ExhaustionDesc>
 
   <NeedFoodHopper>Need food hopper</NeedFoodHopper>
   <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
