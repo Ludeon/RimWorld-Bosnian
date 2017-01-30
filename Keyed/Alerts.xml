@@ -58,14 +58,14 @@
   <NeedFoodHopper>Need food hopper</NeedFoodHopper>
   <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
 
-  <NeedMealSource>Need meal source</NeedMealSource>
-  <NeedMealSourceDesc>You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
+  <NeedMealSource>Potreban izvor gotove hrane</NeedMealSource>
+  <NeedMealSourceDesc>Vi nemate naćin spremanja gotove hrane.\n\nPotreban vam je šporet, kampska vatra, ili nutrientski izbacivać hrane.\n\n(Ne smije se nalaziti u zatvoreničkoj čeliji, jer tada kolonisti ga ne mogu korisiti.)</NeedMealSourceDesc>
 
-  <NeedJoySource>Need joy source</NeedJoySource>
-  <NeedJoySourceDesc>Your colonists need to fulfill their joy need, but you haven't built any joy sources.\n\nHelp them by building a horseshoes pin, chess table, or other joy source.</NeedJoySourceDesc>
+  <NeedJoySource>Potreban izvor sreće</NeedJoySource>
+  <NeedJoySourceDesc>Vaši kolonisti moraju da ispune svoju želju za srećom, ali niste sagradili ni jedan izvor sreće.\n\nPomozite im tako kako bi izgradili šahovski stol, ili neki drugi izvor sreće.</NeedJoySourceDesc>
 
-  <NeedBatteries>Need batteries</NeedBatteries>
-  <NeedBatteriesDesc>You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power.</NeedBatteriesDesc>
+  <NeedBatteries>Potrebne baterije</NeedBatteries>
+  <NeedBatteriesDesc>Imate solarni ili generator na vjetar, ali ne i baterije. To znaći da čete ostati bez struje svaki put kad sunce zadje ili vjetar se smiri.\n\nSagradite bateriju ili dvije da osigurate održivu struju.</NeedBatteriesDesc>
 
   <BrawlerHasRangedWeapon>Brawler has ranged weapon</BrawlerHasRangedWeapon>
   <BrawlerHasRangedWeaponDesc>One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy.</BrawlerHasRangedWeaponDesc>
