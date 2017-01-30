@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ClockTime>Vrijeme</ClockTime>
+  <ClockDate>Datum</ClockDate>
+  <ClockYear>Godina</ClockYear>
+  <DateReadoutTip>Dana provedenih od vašeg dolazka: {0}\nIma {1} dana u svakoj sezoni.\nTrenutna sezona: {2}</DateReadoutTip>
+
+  <FullDate>{0} od {1}, {2}</FullDate>
+	<DateReadout>{0} od {1}, {2}</DateReadout>
+  <SeasonFullDate>{0} od {1}</SeasonFullDate>
+  <WholeYear>Cijela godina</WholeYear>
+  
+</LanguageData>

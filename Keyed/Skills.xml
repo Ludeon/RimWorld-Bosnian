@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Level>Nivo</Level>
+  <ProgressToNextLevel>Progres za sljedeći nivo</ProgressToNextLevel>
+  <Experience>Iskustvo</Experience>
+  <Passion>Strast</Passion>
+  <PassionNone>nema (saznaje x{0})</PassionNone>
+  <PassionMinor>zainteresovanost (saznaje x{0}, dobija radost)</PassionMinor>
+  <PassionMajor>vatrena strast (saznaje x{0}, dobija radost 2x)</PassionMajor>
+  <LearnedMaxToday>Naučio maksimalno danas ({0}/{1}, ubuduće saznavanje množi se sa {2})</LearnedMaxToday>
+  <EffectsAtLevel>Efekti na nivou {0}</EffectsAtLevel>
+  <SkillMax>MAKS</SkillMax>
+
+  <Skill0>Jedva ćuo za to</Skill0>
+  <Skill1>Potpuni početnik</Skill1>
+  <Skill2>Početnik</Skill2>
+  <Skill3>Osnovno poznavanje</Skill3>
+  <Skill4>Amater</Skill4>
+  <Skill5>Jak amater</Skill5>
+  <Skill6>Praktičar</Skill6>
+  <Skill7>Vješt praktičar</Skill7>
+  <Skill8>Profesionalac</Skill8>
+  <Skill9>Vješt profesionalac</Skill9>
+  <Skill10>Ekspert</Skill10>
+  <Skill11>Jak ekspert</Skill11>
+  <Skill12>Veoma jak ekspert</Skill12>
+  <Skill13>Vještak</Skill13>
+  <Skill14>Jak vještak</Skill14>
+  <Skill15>Planetno-klasni vještak</Skill15>
+  <Skill16>Sistemsko-klasni vještak</Skill16>
+  <Skill17>Poštovan vještak</Skill17>
+  <Skill18>Visioner</Skill18>
+  <Skill19>Legendarno</Skill19>
+  <Skill20>Bogovski</Skill20>
+  
+</LanguageData>

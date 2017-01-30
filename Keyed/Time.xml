@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <LetterDay>d</LetterDay>
+  <LetterHour>h</LetterHour>
+  <LetterMinute>m</LetterMinute>
+  <LetterSecond>s</LetterSecond>
+  
+  <DaysLower>dani</DaysLower>
+  <SecondsLower>sekunde</SecondsLower>
+
+  <SeasonSpring>proljeće</SeasonSpring>
+  <SeasonSummer>ljeto</SeasonSummer>
+  <SeasonFall>jesen</SeasonFall>
+  <SeasonWinter>zima</SeasonWinter>
+
+  <Born>Rođenje: {0}</Born>
+  <AgeChronological>Hronološka starost: {0} godina, {1} sezona, {2} dana</AgeChronological>
+  <AgeBiological>Biološka starost: {0} godina, {1} sezona, {2} dana</AgeBiological>
+
+  <!-- Date periods -->
+	<Period1Year>1 godina</Period1Year>
+  <PeriodYears>{0} godina</PeriodYears>
+  <Period1Season>1 sezona</Period1Season>
+  <PeriodSeasons>{0} sezona</PeriodSeasons>
+  <Period1Day>1 dan</Period1Day>
+  <PeriodDays>{0} dana</PeriodDays>
+  <Period1Hour>1 sat</Period1Hour>
+  <PeriodHours>{0} sati</PeriodHours>
+
+  <!-- Misc -->
+  <Started>Započeto</Started>
+  <Lasted>Trajalo</Lasted>
+  <OccurredTimeAgo>zbilo se {0} prije</OccurredTimeAgo>
+  
+</LanguageData>
