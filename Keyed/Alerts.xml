@@ -3,9 +3,9 @@
 
 	<ClickToJumpToProblem>Klikni da vidiš problem</ClickToJumpToProblem>
 
-  <BreakRiskMinor>Minor break risk</BreakRiskMinor>
-  <BreakRiskMajor>Major break risk</BreakRiskMajor>
-  <BreakRiskExtreme>Extreme break risk</BreakRiskExtreme>
+  <BreakRiskMinor>Manji rizik mentalne nestabilnosti</BreakRiskMinor>
+  <BreakRiskMajor>Veći rizik mentalne nestabilnosti</BreakRiskMajor>
+  <BreakRiskExtreme>Ekstreman rizik mentalne nestabilnosti</BreakRiskExtreme>
   <BreakRiskMinorDesc>Ovi kolonisti su u lošem raspoloženju i moguće je da će doči do manjeg udara na psihu u svakom trenutku:\n\n{0}</BreakRiskMinorDesc>
   <BreakRiskMajorDesc>Ovi kolonisti su u lošem raspoloženju i moguće je da će doči do večeg udara na psihu u svakom trenutku:\n\n{0}</BreakRiskMajorDesc>
   <BreakRiskExtremeDesc>Ovi kolonisti su kritično pod stresom i možda će imati extremni (možda ćak i nasilan) psihički lom u bilo kojem trenutku:\n\n{0}</BreakRiskExtremeDesc>
@@ -67,46 +67,46 @@
   <NeedBatteries>Potrebne baterije</NeedBatteries>
   <NeedBatteriesDesc>Imate solarni ili generator na vjetar, ali ne i baterije. To znaći da čete ostati bez struje svaki put kad sunce zadje ili vjetar se smiri.\n\nSagradite bateriju ili dvije da osigurate održivu struju.</NeedBatteriesDesc>
 
-  <BrawlerHasRangedWeapon>Brawler has ranged weapon</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeapon>Melee borac ima oružje na daljinu</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Jedan od vaših kolonista je Melee Borac po osobini, ali ima oružje na daljinu. Ovo će ih učiniti nesrečnim.</BrawlerHasRangedWeaponDesc>
 
-  <ShieldUserHasRangedWeapon>Shield user has ranged weapon</ShieldUserHasRangedWeapon>
-  <ShieldUserHasRangedWeaponDesc>One of your colonists has a personal shield and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them).</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeapon>Kolonista sa štitom ima oružje na daljinu</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>Jedan od vaših kolonista štit i oružje na daljinu. Neće moći da pucaju iz svog oružja kroz štit (osim na mete koje ih već diraju,tj da su u blizini).</ShieldUserHasRangedWeaponDesc>
 
-  <NeedResearchProject>Need research project</NeedResearchProject>
-  <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
+  <NeedResearchProject>Potreban projekat za istraživanje</NeedResearchProject>
+  <NeedResearchProjectDesc>Imate opremu da istražujete ali niste izabrali projekat.\n\nOtvorite meni za istraživanje pa izaberite projekat.</NeedResearchProjectDesc>
   
-  <ColonistsIdle>{0} colonists idle</ColonistsIdle>
-  <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
+  <ColonistsIdle>{0} besposleni kolonista</ColonistsIdle>
+  <ColonistsIdleDesc>Ovi kolonisti šetaju okolo jer su besposleni:\n\n{0}\nTrebali ste im zadati nešto produktivno da rade.</ColonistsIdleDesc>
 
   <ColonistNeedsTreatment>Colonist needs treatment</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
 
-  <AlertHypothermia>Hypothermia</AlertHypothermia>
-  <AlertHypothermiaDesc>These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated.</AlertHypothermiaDesc>
+  <AlertHypothermia>Hipotermija</AlertHypothermia>
+  <AlertHypothermiaDesc>Ovi kolonisti pate od hipotermije.\n\n{0}\nProvjerite da im je odjeća za trenutnu sezonu i da prostorije imaju grijanje.</AlertHypothermiaDesc>
   
-  <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
-  <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperation>{0} pacijenata čeka da se operišu</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>Ovi pacijenti čekaju na operaciju:\n\n{0}\nProvjerite da li imate sve potrebno za operaciju kao i slobodnog doktora.</PatientsAwaitingMedicalOperationDesc>
 
-  <FireInHomeArea>Fire!</FireInHomeArea>
-  <FireInHomeAreaDesc>There is a fire in the home area.</FireInHomeAreaDesc>
+  <FireInHomeArea>Vatra!</FireInHomeArea>
+  <FireInHomeAreaDesc>Izbila je vatra u području kuće.</FireInHomeAreaDesc>
 
-  <PawnsWithLifeThreateningDisease>Severe illness</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical possible.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDisease>Teška bolest</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>Ljudi su pod rizikom zbog teške bolesti:\n\n{0}\nProvjerite tako da kako bi oni mogli dobiti najbolju medicinsku pomoć.</PawnsWithLifeThreateningDiseaseDesc>
   <PawnsWithLifeThreateningDiseaseAmputationDesc>People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
-  <BilliardsNeedsSpace>Billiards needs space</BilliardsNeedsSpace>
-  <BilliardsNeedsSpaceDesc>One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpace>Bilijarski stolovi trebaju prostor</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Jedan od bilijarskih stolova se nalazi uz neki objekat pa kolonisti nemajuj mjesta.\n\nBilijarski sto treba mjesta oko sebe tako da bi se mogao koristiti.</BilliardsNeedsSpaceDesc>
 
-  <HunterHasShieldAndRangedWeapon>Hunter has shield and ranged weapon</HunterHasShieldAndRangedWeapon>
-  <HunterHasShieldAndRangedWeaponDesc>One of your hunters is using a ranged weapon and wearing a personal shield which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeapon>Lovac ima štit i oružje na daljinu</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>Jedan od vaših boraca koristi oružje na daljinu i lični štit što im onemogučuje pucanje izvan štita.\n\nOni neće moći loviti sve dok se štit ne skine.</HunterHasShieldAndRangedWeaponDesc>
 
-  <NeedWarmClothes>Need warm clothes</NeedWarmClothes>
-  <NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
-  <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
-  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
+  <NeedWarmClothes>Potrebna topla odjeća</NeedWarmClothes>
+  <NeedWarmClothesDesc1>Barem {0} kolonista neće imati toplu odjeću kada hladna sezona dodje.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Svim vašim kolonistima će nedostajati topla odjeća kada dodje zima.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>Temperatura napolju će dostići {0}.\n\nMožete sašiti odjeću na stolu za šivenje, ili je kupiti od trgovaca.</NeedWarmClothesDesc2>
   
-  <ImmobileCaravan>Immobile caravan</ImmobileCaravan>
-  <ImmobileCaravanDesc>One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab.</ImmobileCaravanDesc>
+  <ImmobileCaravan>Nepokretan karavan</ImmobileCaravan>
+  <ImmobileCaravanDesc>Jedan od vaših karavana je nepokretan zato što je prenatrpan.\n\nMožete karavan demobilizirati tako što bi odbacili neke stvari koje transportuje.</ImmobileCaravanDesc>
   
 </LanguageData>
