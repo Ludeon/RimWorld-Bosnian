@@ -8,18 +8,18 @@
   <BreakRiskExtreme>Ekstreman rizik mentalne nestabilnosti</BreakRiskExtreme>
   <BreakRiskMinorDesc>Ovi kolonisti su u lošem raspoloženju i moguće je da će doči do manjeg udara na psihu u svakom trenutku:\n\n{0}</BreakRiskMinorDesc>
   <BreakRiskMajorDesc>Ovi kolonisti su u lošem raspoloženju i moguće je da će doči do večeg udara na psihu u svakom trenutku:\n\n{0}</BreakRiskMajorDesc>
-  <BreakRiskExtremeDesc>Ovi kolonisti su kritično pod stresom i možda će imati extremni (možda ćak i nasilan) psihički lom u bilo kojem trenutku:\n\n{0}</BreakRiskExtremeDesc>
-  <BreakRiskDescEnding>Provjerite potrebe ovih kolonista da otkrijte šta im smeta.\n\nDa bi se kolonisti osjećali bolje, možete im pružiti bolju hranu, dajte im više vremena za zabavu, postavite ih u lijepa okruženja, pustite ih da piju i puše, i još mnogo više.</BreakRiskDescEnding>
+  <BreakRiskExtremeDesc>Ovi kolonisti su kritično pod stresom i možda će imati extremni (možda čak i nasilan) psihički lom u bilo kojem trenutku:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Provjerite potrebe ovih kolonista da otkrijte šta im smeta.\n\nDa bi se kolonisti osjećali bolje, možete im pružiti bolju hranu, dati im više vremena za zabavu, postaviti ih u lijepa okruženja, pustiti ih da piju i puše i još mnogo više.</BreakRiskDescEnding>
   
   <ColonistNeedsRescue>Kolonistu je potrebno spasiti</ColonistNeedsRescue>
   <ColonistsNeedRescue>Koloniste je potrebno spasiti</ColonistsNeedRescue>
   <ColonistsNeedRescueDesc>  Ovi kolonisti su onesposobljeni i nalaze se na podu:\n\n{0}\nPošaljite drugog kolonistu da ih spasi i odnese do kreveta.\n\n(Da spasite, izaberite drugog kolonistu, onda pritisnite desni klik na žrtvu pa izaberite Spasi.</ColonistsNeedRescueDesc>
 
   <NeedDefenses>Potrebna odbrana</NeedDefenses>
-  <NeedDefensesDesc>Ovdje ste već neko vrijeme i vjerovatno su vas vidjeli. Piratski napadi će započeti uskoro.\n\nTrebate da pripremite odbranu, da li to bile zamke, vreće pijeska, ili kupole.</NeedDefensesDesc>
+  <NeedDefensesDesc>Ovdje ste već neko vrijeme i vjerovatno su vas vidjeli. Piratski napadi će započeti uskoro.\n\nTrebate da pripremite odbranu <!-- alt. Trebate pripremiti odbranu -->, da li to bile zamke, vreće pijeska, ili kupole. <!-- alt. oklopne kule --></NeedDefensesDesc>
 
   <NeedDoctor>Potreban doktor</NeedDoctor>
-  <NeedDoctorDesc>Ovim kolonistima je potrebna medicinska pomoć, ali vi nemate zdravih kolonista izabranih kao Doktor.\n\n{0}\nIzaberite zdravog kolonistu da radi kao Doktor. Ako se pacijenti ne tretiraju rane imaju šansu da neće normalno zacijeliti i mogu postati trajne.</NeedDoctorDesc>
+  <NeedDoctorDesc>Ovim kolonistima je potrebna medicinska pomoć, ali vi nemate zdravih kolonista izabranih kao Doktor.\n\n{0}\nIzaberite zdravog kolonistu da radi kao Doktor. Ako se pacijenti ne tretiraju rane imaju šansu da neće normalno zacijeliti i mogu postati trajne. <!-- alt. Ako se pacijenti ne tretiraju, postoji šansa da se rane neće potpuno zacijeliti i mogu postati trajne. --></NeedDoctorDesc>
 
   <NeedMiner>Potreban rudar</NeedMiner>
   <NeedMinerDesc>Izabrali ste da se izvrši rudarenje, ali ni jedan kolonista nije Rudar.\n\nIzaberite kolonistu kao Rudara.</NeedMinerDesc>
@@ -28,23 +28,23 @@
   <NeedWardenDesc>Imate zatvorenika, ali ni jedan od kolonista nije nadzornik.\n\nIzaberite kolonistu kao Nadzornika.</NeedWardenDesc>
 
   <LowFood>Malo hrane</LowFood>
-  <LowFoodDesc>Imate opasno malo hrane.\n\n    Full bars worth of food in storage: {0}\n    Kolonisti i zatvorenici koji dobivaju hranu: {1}\n    Days worth of food in storage: {2}\n\nUzgoji, kupi, ili lovi za hranu.</LowFoodDesc>
+  <LowFoodDesc>Imate opasno malo hrane.\n\n    <!-- ref. Full bars worth of food in storage: {0} -->Punih šaka hrane u skladištu: {0}\n    Kolonisti i zatvorenici koji dobivaju hranu: {1}\n    Imate dovoljno hrane za: {2} dan(a)\n\nUzgoji, kupi, ili lovi za hranu.</LowFoodDesc>
 
   <LowMedicine>Malo lijekova</LowMedicine>
-  <LowMedicineDesc>Imate samo {0} preostalih lijekova u skladištu.\n\nKupit još hrane od trgovaca.</LowMedicineDesc>
+  <LowMedicineDesc>Imate samo {0} preostalih lijekova u skladištu.\n\nKupite još lijekova od trgovaca.</LowMedicineDesc>
   <NoMedicineDesc>Nemate lijekova u skladištu.\n\nKupite još lijekova od trgovaca.</NoMedicineDesc>
   
   <NeedColonistBeds>Potrebni kreveti za koloniste</NeedColonistBeds>
-  <NeedColonistBedsDesc>Imate više kolonista nego kreveta za njih. Neko neće imati mjesto za spavanje.\n\nIli napravite još kreveta, ili promjenite krevet za zatvorenike u krevet za koloniste.\n\nAko nemate resursa, mjesta za spavanja su besplatna i postavljaju se instantno.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>Imate više kolonista nego kreveta za njih. Neko neće imati mjesto za spavanje.\n\nIli napravite još kreveta, ili promjenite krevet za zatvorenike u krevet za koloniste.\n\nAko nemate resursa, mjesta za spavanja su besplatna i postavljaju se instantno. <!-- alt. ...i postavljaju se odmah. --></NeedColonistBedsDesc>
 
   <HunterLacksWeapon>Lovcu nedostaje oružje</HunterLacksWeapon>
   <HunterLacksWeaponDesc>Kolonista je izabran kao lovac ali nema oružje na daljinu.\n\nOni neće loviti ako nemaju oružje na daljinu.</HunterLacksWeaponDesc>
 
   <AlertTatteredApparel>Poderana odjeća</AlertTatteredApparel>
-  <AlertTatteredApparelDesc>Ovi kolonisti nose poderanu odjeću, što ih unesrečuje:\n\n{0}\nDajte im odjeću koja nije toliko oštećena.\n\nMožete sašiti odjeću na stolu za šivenje, ili kupiti je od trgovaca.</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>Ovi kolonisti nose poderanu odjeću, što ih čini nesretnim:\n\n{0}\nDajte im odjeću koja nije toliko oštećena.\n\nMožete sašiti odjeću na stolu za šivenje, ili kupiti je od trgovaca.</AlertTatteredApparelDesc>
 
 	<AlertUnhappyNudity>Nedobrovoljna nagost</AlertUnhappyNudity>
-	<AlertUnhappyNudityDesc>Ovi kolonisti su goli i nisu srećni o tome:\n\n{0}\nDajte im odjeću.\n\nMožete sašiti odjeću na stolu za šivenje, ili kupiti je od trgovaca.</AlertUnhappyNudityDesc>
+	<AlertUnhappyNudityDesc>Ovi kolonisti su goli i nisu sretni zbog toga:\n\n{0}\nDajte im odjeću.\n\nMožete sašiti odjeću na stolu za šivenje, ili kupiti je od trgovaca.</AlertUnhappyNudityDesc>
 
 	<Starvation>Gladovanje</Starvation>
   <StarvationDesc>Ovi kolonisti gladuju:\n\n{0}\nDajte im nešto hrane.</StarvationDesc>
@@ -53,60 +53,60 @@
   <StarvationAnimalsDesc>Ove ukročene životinje gladuju:\n\n{0}\nDajte im nešto hrane.</StarvationAnimalsDesc>
 
   <Exhaustion>Iscrpljenost</Exhaustion>
-  <ExhaustionDesc>Ovi kolonisti su iscrpljeni i potreban im je odmor:\n\n{0}\nDajte im da se odmor. Trebat će im krevet koji je označen za koloniste. Isto tako, provjerite da nisu regrutovani.</ExhaustionDesc>
+  <ExhaustionDesc>Ovi kolonisti su iscrpljeni i potreban im je odmor:\n\n{0}\nDajte im da se odmore. <!-- alt. Dajte im odmora. --> Trebat će im krevet koji je označen za koloniste. Isto tako, provjerite da nisu regrutovani.</ExhaustionDesc>
 
-  <NeedFoodHopper>Need food hopper</NeedFoodHopper>
-  <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
+  <NeedFoodHopper>Potreban lijevak za punjenje</NeedFoodHopper>
+  <NeedFoodHopperDesc>Imate dozator za hranu, ali nemate lijevak za punjenje pored njega.\n\nDa bi radio, dozator mora crpiti hranu iz obližnjeg lijevka kojeg treba napuniti hranom.\n\nPostavite lijevak za punjenje pored dozatora.</NeedFoodHopperDesc>
 
   <NeedMealSource>Potreban izvor gotove hrane</NeedMealSource>
-  <NeedMealSourceDesc>Vi nemate naćin spremanja gotove hrane.\n\nPotreban vam je šporet, kampska vatra, ili nutrientski izbacivać hrane.\n\n(Ne smije se nalaziti u zatvoreničkoj čeliji, jer tada kolonisti ga ne mogu korisiti.)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>Vi nemate način spremanja gotove hrane.\n\nPotreban vam je šporet, logorska vatra, ili dozator hrane.\n\n(Ne smije se nalaziti u zatvoreničkoj ćeliji, jer ga tada kolonisti ne mogu korisiti.)</NeedMealSourceDesc>
 
-  <NeedJoySource>Potreban izvor sreće</NeedJoySource>
-  <NeedJoySourceDesc>Vaši kolonisti moraju da ispune svoju želju za srećom, ali niste sagradili ni jedan izvor sreće.\n\nPomozite im tako kako bi izgradili šahovski stol, ili neki drugi izvor sreće.</NeedJoySourceDesc>
+  <NeedJoySource>Potreban izvor zabave</NeedJoySource>
+  <NeedJoySourceDesc>Vaši kolonisti moraju da ispune svoju želju za zabavom, ali niste sagradili ni jedan izvor zabave.\n\nPomozite im tako kako bi izgradili šahovski stol, ili neki drugi izvor zabave.</NeedJoySourceDesc>
 
   <NeedBatteries>Potrebne baterije</NeedBatteries>
-  <NeedBatteriesDesc>Imate solarni ili generator na vjetar, ali ne i baterije. To znaći da čete ostati bez struje svaki put kad sunce zadje ili vjetar se smiri.\n\nSagradite bateriju ili dvije da osigurate održivu struju.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>Imate solarni generator ili vjetroturbine, ali ne i baterije. To znaći da ćete ostati bez struje svaki put kad sunce zađe ili se vjetar smiri.\n\nSagradite jednu ili dvije baterije da osigurate održivu struju.</NeedBatteriesDesc>
 
-  <BrawlerHasRangedWeapon>Melee borac ima oružje na daljinu</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>Jedan od vaših kolonista je Melee Borac po osobini, ali ima oružje na daljinu. Ovo će ih učiniti nesrečnim.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeapon>Borac ima oružje na daljinu</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Jedan od vaših kolonista je Borac po osobini, ali ima oružje na daljinu. Ovo će ih učiniti nesretnim.</BrawlerHasRangedWeaponDesc>
 
   <ShieldUserHasRangedWeapon>Kolonista sa štitom ima oružje na daljinu</ShieldUserHasRangedWeapon>
-  <ShieldUserHasRangedWeaponDesc>Jedan od vaših kolonista štit i oružje na daljinu. Neće moći da pucaju iz svog oružja kroz štit (osim na mete koje ih već diraju,tj da su u blizini).</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>Jedan od vaših kolonista ima štit i oružje na daljinu. Neće moći da gađaju iz svog oružja kroz štit (osim na mete koje ih već diraju, tj. mete koje su u blizini).</ShieldUserHasRangedWeaponDesc>
 
   <NeedResearchProject>Potreban projekat za istraživanje</NeedResearchProject>
   <NeedResearchProjectDesc>Imate opremu da istražujete ali niste izabrali projekat.\n\nOtvorite meni za istraživanje pa izaberite projekat.</NeedResearchProjectDesc>
   
-  <ColonistsIdle>{0} besposleni kolonista</ColonistsIdle>
-  <ColonistsIdleDesc>Ovi kolonisti šetaju okolo jer su besposleni:\n\n{0}\nTrebali ste im zadati nešto produktivno da rade.</ColonistsIdleDesc>
+  <ColonistsIdle>{0} besposlen(ih) kolonista</ColonistsIdle>
+  <ColonistsIdleDesc>Ovi kolonisti šetaju okolo jer su besposleni:\n\n{0}\nTrebate im zadati nešto produktivno da rade.</ColonistsIdleDesc>
 
-  <ColonistNeedsTreatment>Colonist needs treatment</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatment>Kolonisti je potrebno liječenje</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Ovim kolonistima treba medicinska pomoć. Bez nje mogu preminuti od rana, ili njihove rane mogu postati trajne.\n\n{0}\nIzliječite ih tako što ćete ih poslati u medicinski krevet.\n\n(Prvo trebate označiti medicinski krevet tako što ćete odabrati bilo koji krevet, a onda ga označiti kao medicinski krevet. Zatim odaberite ozlijeđene koloniste i desnim klikom na medicinski krevet ih označite kao pacijente.)</ColonistNeedsTreatmentDesc>
 
-  <AlertHypothermia>Hipotermija</AlertHypothermia>
-  <AlertHypothermiaDesc>Ovi kolonisti pate od hipotermije.\n\n{0}\nProvjerite da im je odjeća za trenutnu sezonu i da prostorije imaju grijanje.</AlertHypothermiaDesc>
+  <AlertHypothermia>Smrzavanje</AlertHypothermia>
+  <AlertHypothermiaDesc>Ovi kolonisti se trenutno smrzavaju.\n\n{0}\nProvjerite da li im je odjeća prikladna za trenutno godišnje doba i da li prostorije imaju grijanje.</AlertHypothermiaDesc>
   
   <PatientsAwaitingMedicalOperation>{0} pacijenata čeka da se operišu</PatientsAwaitingMedicalOperation>
   <PatientsAwaitingMedicalOperationDesc>Ovi pacijenti čekaju na operaciju:\n\n{0}\nProvjerite da li imate sve potrebno za operaciju kao i slobodnog doktora.</PatientsAwaitingMedicalOperationDesc>
 
   <FireInHomeArea>Vatra!</FireInHomeArea>
-  <FireInHomeAreaDesc>Izbila je vatra u području kuće.</FireInHomeAreaDesc>
+  <FireInHomeAreaDesc>Izbila je vatra u području kolonije.</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>Teška bolest</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>Ljudi su pod rizikom zbog teške bolesti:\n\n{0}\nProvjerite tako da kako bi oni mogli dobiti najbolju medicinsku pomoć.</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>Ljudi su pod rizikom smrti zbog teške bolesti:\n\n{0}\nOsigurajte im najbolju medicinsku pomoć.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Ljudi su pod rizikom smrti zbog teške bolesti:\n\n{0}\nAko je moguće, razmislite da obavite amputaciju ili zamjenu inficiranih udova da bi ih spasili.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
-  <BilliardsNeedsSpace>Bilijarski stolovi trebaju prostor</BilliardsNeedsSpace>
-  <BilliardsNeedsSpaceDesc>Jedan od bilijarskih stolova se nalazi uz neki objekat pa kolonisti nemajuj mjesta.\n\nBilijarski sto treba mjesta oko sebe tako da bi se mogao koristiti.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpace>Bilijarski stolovi nemaju prostora</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Jedan od bilijarskih stolova se nalazi uz neki predmet pa kolonisti nemaju mjesta.\n\nBilijarski stol treba imati mjesta oko sebe da bi se mogao koristiti.</BilliardsNeedsSpaceDesc>
 
   <HunterHasShieldAndRangedWeapon>Lovac ima štit i oružje na daljinu</HunterHasShieldAndRangedWeapon>
-  <HunterHasShieldAndRangedWeaponDesc>Jedan od vaših boraca koristi oružje na daljinu i lični štit što im onemogučuje pucanje izvan štita.\n\nOni neće moći loviti sve dok se štit ne skine.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeaponDesc>Jedan od vaših lovaca koristi oružje na daljinu i lični štit što im onemogučuje gađanje izvan štita.\n\nOni neće moći loviti sve dok se štit ne ukloni.</HunterHasShieldAndRangedWeaponDesc>
 
   <NeedWarmClothes>Potrebna topla odjeća</NeedWarmClothes>
-  <NeedWarmClothesDesc1>Barem {0} kolonista neće imati toplu odjeću kada hladna sezona dodje.</NeedWarmClothesDesc1>
-  <NeedWarmClothesDesc1All>Svim vašim kolonistima će nedostajati topla odjeća kada dodje zima.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc1>Barem {0} kolonista neće imati toplu odjeću kada dođe zima.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Svim vašim kolonistima će nedostajati topla odjeća kada dođe zima.</NeedWarmClothesDesc1All>
   <NeedWarmClothesDesc2>Temperatura napolju će dostići {0}.\n\nMožete sašiti odjeću na stolu za šivenje, ili je kupiti od trgovaca.</NeedWarmClothesDesc2>
   
   <ImmobileCaravan>Nepokretan karavan</ImmobileCaravan>
-  <ImmobileCaravanDesc>Jedan od vaših karavana je nepokretan zato što je prenatrpan.\n\nMožete karavan demobilizirati tako što bi odbacili neke stvari koje transportuje.</ImmobileCaravanDesc>
+  <ImmobileCaravanDesc>Jedan od vaših karavana je nepokretan zato što je prenatrpan.\n\nMožete ga ponovo učiniti pokretnim tako što ćete odbaciti neke stvari koje karavan transportuje.</ImmobileCaravanDesc>
   
 </LanguageData>

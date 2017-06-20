@@ -4,7 +4,7 @@
   <ClockTime>Vrijeme</ClockTime>
   <ClockDate>Datum</ClockDate>
   <ClockYear>Godina</ClockYear>
-  <DateReadoutTip>Dana provedenih od vašeg dolazka: {0}\nIma {1} dana u svakoj sezoni.\nTrenutna sezona: {2}</DateReadoutTip>
+  <DateReadoutTip>Dana provedenih od vašeg dolaska: {0}\nIma {1} dan(a) u svakoj sezoni.\nTrenutno godišnje doba: {2}</DateReadoutTip>
 
   <FullDate>{0} od {1}, {2}</FullDate>
 	<DateReadout>{0} od {1}, {2}</DateReadout>

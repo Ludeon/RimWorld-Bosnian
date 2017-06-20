@@ -5,8 +5,12 @@
   <canBeTiny>true</canBeTiny>
   <credits>
     <li Class="CreditRecord_Role">
-      <roleKey>Credit_Writer</roleKey>
+      <roleKey>Credit_Translator</roleKey>
       <creditee>Dazee White</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>WentBerzerk</creditee>
     </li>
   </credits>
 </LanguageInfo>
