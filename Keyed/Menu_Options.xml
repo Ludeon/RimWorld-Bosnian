@@ -2,46 +2,51 @@
 <LanguageData>
 
   <!-- Audiovisuals -->
-  <Audiovisuals>Audiovisuals</Audiovisuals>
-  <GameVolume>Game volume</GameVolume>
-  <MusicVolume>Music volume</MusicVolume>
-  <Antialiasing>Anti-aliasing</Antialiasing>
+  <Audiovisuals>Audiovizuelne postavke</Audiovisuals>
+  <GameVolume>Jačina zvuka igre</GameVolume>
+  <MusicVolume>Jačina zvuka muzike</MusicVolume>
+  <Antialiasing>Zaglađivanje ivica</Antialiasing>
 
   <!-- Gameplay -->
-  <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
-  <PauseOnLoad>Pause on load</PauseOnLoad>
-  <PauseOnUrgentLetter>Pause on urgent letter</PauseOnUrgentLetter>
-  <CustomCursor>Custom cursor</CustomCursor>
-	<UIScale>UI scale</UIScale>
-	<KeyboardConfig>Keyboard configuration</KeyboardConfig>
-  <ChooseLanguage>Choose language</ChooseLanguage>
-  <ResetAdaptiveTutor>Reset learning helper</ResetAdaptiveTutor>
-  <AdaptiveTutorIsReset>Tutor is reset. You will be now be re-taught all lessons from scratch.</AdaptiveTutorIsReset>
-  <RunInBackground>Run in background</RunInBackground>
-  <DevelopmentMode>Development mode</DevelopmentMode>
-  <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
-  <LogVerbose>Verbose logging</LogVerbose>
-  <OpenSaveGameDataFolder>Open save data folder</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Names of player-created characters you want to see:</NamesYouWantToSee>
-  <AddName>Add name</AddName>
-  <TypeFirstNickOrLastName>Type the first name, nickname, or last name.</TypeFirstNickOrLastName>
-  <MessageAlreadyPreferredName>This name is already on the preferred list.</MessageAlreadyPreferredName>
-  <ChangeStoryteller>Choose storyteller</ChangeStoryteller>
-  <AutosaveInterval>Autosave interval</AutosaveInterval>
-  <TemperatureMode>Temperature mode</TemperatureMode>
-  <ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
-  <MaxNumberOfPlayerHomes>Maximum number of colonies: {0}</MaxNumberOfPlayerHomes>
-  <PlantWindSway>Plant wind sway</PlantWindSway>
-  <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
+  <EdgeScreenScroll>Pomak pomijeranjem miša na ivicu</EdgeScreenScroll>
+  <PauseOnLoad>Pauza prilikom učitavanja</PauseOnLoad>
+  <PauseOnUrgentLetter>Pauza prilikom hitnog obavještenja<!-- letter - need alt. --></PauseOnUrgentLetter>
+  <CustomCursor>Poseban pokazivač</CustomCursor>
+  <HatsShownOnlyOnMap>Šeširi se prikazuju samo na mapi igre</HatsShownOnlyOnMap>
+  <UIScale>Skala interface-a</UIScale>
+  <KeyboardConfig>Postavka tastature</KeyboardConfig>
+  <ChooseLanguage>Odaberi jezik</ChooseLanguage>
+  <ResetAdaptiveTutor>Restartuj pomagača</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Pomagač je restartovan. Sada ćete moći naučiti sve savjete<!-- savjete - need alt. --> od početka.</AdaptiveTutorIsReset>
+  <RunInBackground>Pokreni u pozadini</RunInBackground>
+  <DevelopmentMode>Developer mod</DevelopmentMode>
+  <ResetModsConfigOnCrash>Restartuj postavke moda kad se sruši</ResetModsConfigOnCrash>
+  <LogVerbose>Opširno zapisivanje</LogVerbose>
+  <OpenSaveGameDataFolder>Otvori folder sačuvanih datoteka</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Imena posebnih likova koje želite vidjeti u igri:</NamesYouWantToSee>
+  <AddName>Dodaj ime</AddName>
+  <TypeFirstNickOrLastName>Upiši ime, nadimak, ili prezime.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>Ovo ime je već na željenoj listi.</MessageAlreadyPreferredName>
+  <ChangeStoryteller>Odaberi pripovjedača</ChangeStoryteller>
+  <AutosaveInterval>Period autosačuvanja</AutosaveInterval>
+  <TemperatureMode>Jedinica temperature</TemperatureMode>
+  <ShowRealtimeClock>Prikaži potpuni sat</ShowRealtimeClock>
+  <MaxNumberOfPlayerHomes>Maksimalan broj kolonija: {0}</MaxNumberOfPlayerHomes>
+  <PlantWindSway>Vjetar njiše biljke</PlantWindSway>
+  <MaxPermadeathAutosaveIntervalInfo>Maksimalni period autosačuvanja u modu trajne smrti je {0} dan.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Postavke modova</ModSettings>
 
   <!-- Resolution -->
-  <Resolution>Resolution</Resolution>
-  <Fullscreen>Fullscreen</Fullscreen>
+  <Resolution>Rezolucija</Resolution>
+  <Fullscreen>Preko cijelog ekrana</Fullscreen>
 
-  <!-- Privacy-->
-  <Privacy>Privacy</Privacy>
-  <UserName>User name</UserName>
-  <ChooseHistoryUploadPref>Gameplay data upload pref.</ChooseHistoryUploadPref>
-  <AboutHistoryUpload>Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous.</AboutHistoryUpload>
-  
+  <!-- Privacy -->
+  <Privacy>Privatnost</Privacy>
+  <UserName>Korisničko ime</UserName>
+  <ChooseHistoryUploadPref>Predgovor o slanju korisničkih podataka</ChooseHistoryUploadPref>
+  <AboutHistoryUpload>Korisnički podaci o igri pomažu razvojnim programerima da uravnoteže igru. Ako se slažete, vaši podaci će svaka {0} dana u igri (u nekim slučajevima na kraju igre) biti poslani RimWorld serveru, a zatim analizirati. Poslani podaci se samo sastoje od korisničke statistike i evidencije koja je vezana za igru - nikakvi lični podaci neće biti poslani osim korisničkog imena, što znači da je potpuno anonimno.</AboutHistoryUpload>
+
+  <!-- Mods -->
+  <SelectMod>Odaberi mod...</SelectMod>
+  <NoConfigurableMods>Nijedan podesiv mod nije učitan.</NoConfigurableMods>
 </LanguageData>

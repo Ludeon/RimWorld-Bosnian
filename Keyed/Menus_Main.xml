@@ -8,9 +8,9 @@
   <ReviewScenario>Pregledaj scenarij</ReviewScenario>
   <Save>Sačuvaj igru</Save>
   <LoadGame>Učitaj igru</LoadGame>
-  <Options>Podešavanja</Options>
-  <Mods>Modifikacije</Mods>
-  <Credits>Zasluge <!-- alt. Odjavna špica --></Credits>
+  <Options>Opcije</Options>
+  <Mods>Modovi</Mods>
+  <Credits>Zasluge<!-- alt. Odjavna špica --></Credits>
   <QuitToMainMenu>Izađi u glavni meni</QuitToMainMenu>
   <SaveAndQuitToMainMenu>Sačuvaj i izađi u glavni meni</SaveAndQuitToMainMenu>
   <QuitToOS>Izađi iz igre</QuitToOS>
@@ -42,10 +42,11 @@
   <WorldSeed>Sjeme</WorldSeed>
   <RandomizeSeed>Nasumično</RandomizeSeed>
   <PlanetCoverageTip>Planeta je uvijek istog promjera, ali pošto je mnogo veća nego što je potrebno za igru, ne moramo stvarati cijelu površinu planete, jer može dugo potrajati. Ovo je procenat površine planete koju želite stvoriti.</PlanetCoverageTip>
+  <WorldFactionsTab>Klanovi</WorldFactionsTab>
 
   <!--=========== Select world ===================-->
-  <SelectWorld>Izaberi svijet</SelectWorld>
-  <WorldChooseButton>Izaberi</WorldChooseButton>
+  <SelectWorld>Odaberi svijet</SelectWorld>
+  <WorldChooseButton>Odaberi</WorldChooseButton>
   <NoWorldsFilesFound>Datoteke svjetova nisu pronađene. Prvo napravite svijet.</NoWorldsFilesFound>
   
   <!--=========== Version info ==========-->
@@ -76,7 +77,7 @@
   <Source>Izvor</Source>
   <ModTargetVersion>Za verziju: {0}</ModTargetVersion>
   <ModNotMadeForThisVersion>Ovaj mod nije napravljen za vašu verziju RimWorld-a i vjerovatno neće ispravno raditi.</ModNotMadeForThisVersion>
-  <MessageModNeedsWellFormattedTargetVersion><!-- ref. Mod needs a well-formatted target version in About.xml. --> Potrebno je postaviti verziju moda u About.xml. Na primjer: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion><!-- ref. Mod needs a well-formatted target version in About.xml. -->Potrebno je postaviti verziju moda u About.xml. Na primjer: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
   <DragToReorder>Prevucite mišem da preuredite</DragToReorder>
   
   <!--=========== Select scenario =============-->
@@ -106,69 +107,76 @@
   <Difficulty>Teškoća</Difficulty>
 
   <!--=========== Landing site select =========-->
-  <SelectLandingSite>Select landing site</SelectLandingSite>
-  <SelectRandomSite>Select random site</SelectRandomSite>
-  <SelectSite>Select site</SelectSite>
-  <MustSelectLandingSite>Please select a landing site.</MustSelectLandingSite>
-  <CannotLandBiome>You cannot land on this biome: {0}</CannotLandBiome>
-  <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
-  <CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
-  <BaseAlreadyThere>{0} already have a base there.</BaseAlreadyThere>
-  <Biome>Biome</Biome>
-  <Terrain>Terrain</Terrain>
-  <Elevation>Elevation</Elevation>
-  <Fertility>Fertility</Fertility>
-  <AvgTemp>Average temperature</AvgTemp>
-  <AvgSummerTemp>Summer temperature</AvgSummerTemp>
-	<AvgWinterTemp>Winter temperature</AvgWinterTemp>
-	<Rainfall>Rainfall</Rainfall>
-  <HasCoast0>Northern coast</HasCoast0>
-  <HasCoast1>Eastern coast</HasCoast1>
-  <HasCoast2>Southern coast</HasCoast2>
-  <HasCoast3>Western coast</HasCoast3>
-  <FactionBase>Faction base</FactionBase>
-  <StoneTypesHere>Stone types</StoneTypesHere>
-  <TimeZone>Time zone</TimeZone>
-	<MovementTimeNow>Current movement time</MovementTimeNow>
-	<MovementTimeSummer>Summer movement time</MovementTimeSummer>
-	<MovementTimeWinter>Winter movement time</MovementTimeWinter>
+  <SelectLandingSite>Odaberi mjesto iskrcavanja</SelectLandingSite>
+  <SelectRandomSite>Nasumično mjesto</SelectRandomSite>
+  <SelectSite>Odaberi mjesto</SelectSite>
+  <MustSelectLandingSite>Molimo vas da odaberete mjesto iskrcavanja.</MustSelectLandingSite>
+  <CannotLandBiome>Ne možete se iskrcati na ovaj biom: {0}</CannotLandBiome>
+  <BiomeNotImplemented>Biom nije proveden</BiomeNotImplemented>
+  <CannotLandImpassableMountains>Ne možete se iskrcati na neprohodne planine.</CannotLandImpassableMountains>
+  <BaseAlreadyThere>{0} već ima bazu na tom mjestu.</BaseAlreadyThere>
+  <YourBaseAlreadyThere>Već imate bazu na tom mjestu.</YourBaseAlreadyThere>
+  <TileOccupied>Ova ploča je zauzeta.<!-- ploča - need alt. --></TileOccupied>
+  <FactionBaseAdjacent>Kolonije ne mogu biti direktno jedna do druge.</FactionBaseAdjacent>
+  <Biome>Biom</Biome>
+  <Terrain>Teren<!-- alt. zemljište --></Terrain>
+  <Road>Put</Road>
+  <River>Rijeka</River>
+  <Elevation>Visina</Elevation>
+  <Fertility>Plodnost</Fertility>
+  <AvgTemp>Prosječna temperatura</AvgTemp>
+  <AvgSummerTemp>Ljetna temperatura</AvgSummerTemp>
+	<AvgWinterTemp>Zimska temperatur</AvgWinterTemp>
+	<Rainfall>Padavine</Rainfall>
+  <HasCoast0>Sjeverna obala</HasCoast0>
+  <HasCoast1>Istočna obala</HasCoast1>
+  <HasCoast2>Južna obala</HasCoast2>
+  <HasCoast3>Zapadna obala</HasCoast3>
+  <FactionBase>Baza klana</FactionBase>
+  <StoneTypesHere>Vrste kamena</StoneTypesHere>
+  <TimeZone>Vremenska zona</TimeZone>
+	<MovementTimeNow>Trenutno vrijeme kretanja</MovementTimeNow>
+	<MovementTimeSummer>Ljetno vrijeme kretanja</MovementTimeSummer>
+	<MovementTimeWinter>Zimsko vrijeme kretanja</MovementTimeWinter>
+  <AnimalsCanGrazeNow>Životinje mogu sada pâsti</AnimalsCanGrazeNow>
 
 
 	<!--=========== Character chooser ==========-->
-  <CreateCharacters>Create characters</CreateCharacters>
-  <FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
-  <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
-  <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
-  <Randomize>Randomize</Randomize>
-  <AgeIndicator>age {0}</AgeIndicator>
-  <Backstory>Backstory</Backstory>
-  <IncapableOf>Incapable of</IncapableOf>
-  <Traits>Traits</Traits>
-  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
-  <Skills>Skills</Skills>
-  <NoneLower>none</NoneLower>
-  <Adulthood>Adulthood</Adulthood>
-  <Childhood>Childhood</Childhood>
-  <Male>male</Male>
-  <Female>female</Female>
-  <Pain>Pain</Pain>
-  <Health>Health</Health>
-  <Relations>Relations</Relations>
+  <CreateCharacters>Napravi likove <!-- alt. Pravi --></CreateCharacters>
+  <FirstNameDesc>Ime lika.\n\nPrikazuje se samo u određenim menijima.</FirstNameDesc>
+  <ShortIdentifierDesc>Naziv ili nadimak lika.\n\nPrikazuje se u svakom trenutku. Može biti ime, prezime, ili potpuno poseban nadimak.</ShortIdentifierDesc>
+  <LastNameDesc>Prezime lika.\n\nPrikazuje se samo u određenim menijima.</LastNameDesc>
+  <Randomize>Nasumično</Randomize>
+  <AgeIndicator>godina {0}</AgeIndicator>
+  <Backstory>Pozadina<!-- alt. Pozadinska priča --></Backstory>
+  <IncapableOf>Nesposoban za</IncapableOf>
+  <Traits>Osobine</Traits>
+  <PermanentMoodEffect>Trajni uticaj na raspoloženje</PermanentMoodEffect>
+  <Skills>Sposobnosti</Skills>
+  <NoneLower>ništa<!-- needs testing --></NoneLower>
+  <Adulthood>Punoljetnost</Adulthood>
+  <Childhood>Djetinjstvo<!-- alt. Maloljetnost--></Childhood>
+  <Male>muški</Male>
+  <Female>ženski</Female>
+  <Pain>Bol</Pain>
+  <Health>Zdravlje</Health>
+  <Relations>Odnosi</Relations>
   
   <!--=========== Misc ==========-->
-  <Start>Start</Start>
-  <Advanced>Advanced</Advanced>
-  <Next>Next</Next>
-  <Back>Back</Back>
-  <Gameplay>Gameplay</Gameplay>
-  <ConfirmQuit>Really quit? You'll lose unsaved progress.</ConfirmQuit>
-  <EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
-  <Quit>Quit</Quit>
-  <Ignore>Ignore</Ignore>
+  <Start>Počni</Start>
+  <Advanced>Napredno</Advanced>
+  <Next>Naprijed</Next>
+  <Back>Nazad</Back>
+  <Gameplay>Postavke igre</Gameplay>
+  <ConfirmQuit>Stvarno želite izaći? Izgubit ćete nesačuvan napredak.</ConfirmQuit>
+  <EveryoneNeedsValidName>Svakoj osobi je potrebno ispravno ime.</EveryoneNeedsValidName>
+  <Quit>Izađi</Quit>
+  <Ignore>Ignoriši</Ignore>
   
   <!--============ Progress bar==============-->
-  <GeneratingWorld>Generating world</GeneratingWorld>
-  <GeneratingMap>Generating map</GeneratingMap>
-  <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
+  <GeneratingWorld>Stvaranje svijeta</GeneratingWorld>
+  <GeneratingPlanet>Stvaranje planete</GeneratingPlanet>
+  <GeneratingMap>Stvaranje mape</GeneratingMap>
+  <GeneratingMapForNewEncounter>Stvaranje mape za novi susret</GeneratingMapForNewEncounter>
 
 </LanguageData>

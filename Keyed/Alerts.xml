@@ -6,9 +6,9 @@
   <BreakRiskMinor>Manji rizik mentalne nestabilnosti</BreakRiskMinor>
   <BreakRiskMajor>Veći rizik mentalne nestabilnosti</BreakRiskMajor>
   <BreakRiskExtreme>Ekstreman rizik mentalne nestabilnosti</BreakRiskExtreme>
-  <BreakRiskMinorDesc>Ovi kolonisti su u lošem raspoloženju i moguće je da će doći do manjeg udara na psihu u svakom trenutku:\n\n{0}</BreakRiskMinorDesc>
-  <BreakRiskMajorDesc>Ovi kolonisti su u lošem raspoloženju i moguće je da će doći do večeg udara na psihu u svakom trenutku:\n\n{0}</BreakRiskMajorDesc>
-  <BreakRiskExtremeDesc>Ovi kolonisti su kritično pod stresom i možda će imati ekstremni (možda čak i nasilan) psihički lom u bilo kojem trenutku:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskMinorDesc>Ovi kolonisti su loše raspoloženi i moguće je da će doći do manjeg udara na psihu u svakom trenutku:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>Ovi kolonisti su loše raspoloženi i moguće je da će doći do večeg udara na psihu u svakom trenutku:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>Ovi kolonisti su pod velikim stresom i možda će imati ekstremni (možda čak i nasilan) psihički lom u bilo kojem trenutku:\n\n{0}</BreakRiskExtremeDesc>
   <BreakRiskDescEnding>Provjerite potrebe ovih kolonista da otkrijte šta im smeta.\n\nDa bi se kolonisti osjećali bolje, možete im pružiti bolju hranu, dati im više vremena za zabavu, postaviti ih u lijepa okruženja, pustiti ih da piju i puše i još mnogo više.</BreakRiskDescEnding>
   
   <ColonistNeedsRescue>Kolonistu je potrebno spasiti</ColonistNeedsRescue>
@@ -16,10 +16,10 @@
   <ColonistsNeedRescueDesc>  Ovi kolonisti su onesposobljeni i nalaze se na podu:\n\n{0}\nPošaljite drugog kolonistu da ih spasi i odnese do kreveta.\n\n(Da spasite, izaberite drugog kolonistu, onda pritisnite desni klik na žrtvu pa izaberite Spasi.</ColonistsNeedRescueDesc>
 
   <NeedDefenses>Potrebna odbrana</NeedDefenses>
-  <NeedDefensesDesc>Ovdje ste već neko vrijeme i vjerovatno su vas vidjeli. Piratski napadi će započeti uskoro.\n\nTrebate da pripremite odbranu <!-- alt. Trebate pripremiti odbranu -->, da li to bile zamke, vreće pijeska, ili kupole. <!-- alt. oklopne kule --></NeedDefensesDesc>
+  <NeedDefensesDesc>Ovdje ste već neko vrijeme i vjerovatno su vas vidjeli. Piratski napadi će započeti uskoro.\n\nTrebate da pripremite odbranu<!-- alt. Trebate pripremiti odbranu -->, da li to bile zamke, vreće pijeska, ili kupole. <!-- alt. oklopne kule --></NeedDefensesDesc>
 
   <NeedDoctor>Potreban doktor</NeedDoctor>
-  <NeedDoctorDesc>Ovim kolonistima je potrebna medicinska pomoć, ali vi nemate zdravih kolonista izabranih kao Doktor.\n\n{0}\nIzaberite zdravog kolonistu da radi kao Doktor. Ako se pacijenti ne tretiraju rane imaju šansu da neće normalno zacijeliti i mogu postati trajne. <!-- alt. Ako se pacijenti ne tretiraju, postoji šansa da se rane neće potpuno zacijeliti i mogu postati trajne. --></NeedDoctorDesc>
+  <NeedDoctorDesc>Ovim kolonistima je potrebna medicinska pomoć, ali vi nemate zdravih kolonista izabranih kao Doktor.\n\n{0}\nIzaberite zdravog kolonistu da radi kao Doktor. Ako se pacijenti ne tretiraju rane imaju šansu da neće normalno zacijeliti i mogu postati trajne.<!-- alt. Ako se pacijenti ne tretiraju, postoji šansa da se rane neće potpuno zacijeliti i mogu postati trajne. --></NeedDoctorDesc>
 
   <NeedMiner>Potreban rudar</NeedMiner>
   <NeedMinerDesc>Izabrali ste da se izvrši rudarenje, ali ni jedan kolonista nije Rudar.\n\nIzaberite kolonistu kao Rudara.</NeedMinerDesc>
@@ -35,7 +35,7 @@
   <NoMedicineDesc>Nemate lijekova u skladištu.\n\nKupite još lijekova od trgovaca.</NoMedicineDesc>
   
   <NeedColonistBeds>Potrebni kreveti za koloniste</NeedColonistBeds>
-  <NeedColonistBedsDesc>Imate više kolonista nego kreveta za njih. Neko neće imati mjesto za spavanje.\n\nIli napravite još kreveta, ili promjenite krevet za zatvorenike u krevet za koloniste.\n\nAko nemate resursa, mjesta za spavanja su besplatna i postavljaju se instantno. <!-- alt. ...i postavljaju se odmah. --></NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>Imate više kolonista nego kreveta za njih. Neko neće imati mjesto za spavanje.\n\nIli napravite još kreveta, ili promjenite krevet za zatvorenike u krevet za koloniste.\n\nAko nemate resursa, mjesta za spavanja su besplatna i postavljaju se instantno.<!-- alt. ...i postavljaju se odmah. --></NeedColonistBedsDesc>
 
   <HunterLacksWeapon>Lovcu nedostaje oružje</HunterLacksWeapon>
   <HunterLacksWeaponDesc>Kolonista je izabran kao lovac ali nema oružje na daljinu.\n\nOni neće loviti ako nemaju oružje na daljinu.</HunterLacksWeaponDesc>
@@ -53,7 +53,7 @@
   <StarvationAnimalsDesc>Ove ukročene životinje gladuju:\n\n{0}\nDajte im nešto hrane.</StarvationAnimalsDesc>
 
   <Exhaustion>Iscrpljenost</Exhaustion>
-  <ExhaustionDesc>Ovi kolonisti su iscrpljeni i potreban im je odmor:\n\n{0}\nDajte im da se odmore. <!-- alt. Dajte im odmora. --> Trebat će im krevet koji je označen za koloniste. Isto tako, provjerite da nisu regrutovani.</ExhaustionDesc>
+  <ExhaustionDesc>Ovi kolonisti su iscrpljeni i potreban im je odmor:\n\n{0}\nDajte im da se odmore.<!-- alt. Dajte im odmora. --> Trebat će im krevet koji je označen za koloniste. Isto tako, provjerite da nisu regrutovani.</ExhaustionDesc>
 
   <NeedFoodHopper>Potreban lijevak za punjenje</NeedFoodHopper>
   <NeedFoodHopperDesc>Imate dozator za hranu, ali nemate lijevak za punjenje pored njega.\n\nDa bi radio, dozator mora crpiti hranu iz obližnjeg lijevka kojeg treba napuniti hranom.\n\nPostavite lijevak za punjenje pored dozatora.</NeedFoodHopperDesc>

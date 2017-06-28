@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <SaveButton>Save</SaveButton>
+  <SaveButton>Sačuvaj</SaveButton>
   <!--<CancelButton>Cancel</CancelButton>-->
-  <ClearBinding>Clear</ClearBinding>
-  <ResetBinding>Reset to default</ResetBinding>
-  <BindingButtonToolTip>Left-click to bind this key or right-click for options</BindingButtonToolTip>
-  <PressAnyKeyOrEsc>Press any key or Esc to cancel...</PressAnyKeyOrEsc>
-  <KeyBindingOverwritten>Key binding overwritten: {0}</KeyBindingOverwritten>
+  <ClearBinding>Očisti</ClearBinding>
+  <ResetBinding>Vrati na početno stanje</ResetBinding>
+  <BindingButtonToolTip>Pritisnite lijevi klik da podesite ovu tipku ili desni klik za opcije</BindingButtonToolTip>
+  <PressAnyKeyOrEsc>Pritisnite bilo koju tipku ili Esc da prekinete...</PressAnyKeyOrEsc>
+  <KeyBindingOverwritten>Prespašena postavka tipke: {0}</KeyBindingOverwritten>
   
 </LanguageData>
