@@ -33,5 +33,5 @@ Not started yet.
 
 ***Note***:
 * *Status report currently represents files which are done, corrected, reviewed and maintained by WentBerzerk in the WentBerzerk branch of this repository.*
-* *Most files contain one or more comments in them. The comments will be removed in the mean future*.
-* *A couple of inconsistencies regarding personal distinction are present in the translation at the moment. They will be corrected and fixed in the mean future.*
+* *Most files in the branch contain one or more comments in them. The comments will be removed in the mean future*.
+* *A couple of inconsistencies regarding personal distinction are present in the branch at the moment. They will be corrected and fixed in the mean future.*
