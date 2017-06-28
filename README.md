@@ -20,7 +20,9 @@ Not started yet.
 * *Dates.xml* &mdash; **done**
 * *Designators.xml* &mdash; **needs testing**
 * *Grammar.xml* &mdash; **needs testing**
-* *Menus_Main.xml* &mdash; **in progress**
+* *Menu_KeyBindings.xml* &mdash; **done**
+* *Menu_Options.xml* &mdash; **needs testing** *( mostly done )*
+* *Menus_Main.xml* &mdash; **needs testing**
 * *Time.xml* &mdash; **needs testing**
 
 ***Strings***:
