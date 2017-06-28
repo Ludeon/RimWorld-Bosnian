@@ -6,9 +6,9 @@
   <BreakRiskMinor>Manji rizik mentalne nestabilnosti</BreakRiskMinor>
   <BreakRiskMajor>Veći rizik mentalne nestabilnosti</BreakRiskMajor>
   <BreakRiskExtreme>Ekstreman rizik mentalne nestabilnosti</BreakRiskExtreme>
-  <BreakRiskMinorDesc>Ovi kolonisti su u lošem raspoloženju i moguće je da će doči do manjeg udara na psihu u svakom trenutku:\n\n{0}</BreakRiskMinorDesc>
-  <BreakRiskMajorDesc>Ovi kolonisti su u lošem raspoloženju i moguće je da će doči do večeg udara na psihu u svakom trenutku:\n\n{0}</BreakRiskMajorDesc>
-  <BreakRiskExtremeDesc>Ovi kolonisti su kritično pod stresom i možda će imati extremni (možda čak i nasilan) psihički lom u bilo kojem trenutku:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskMinorDesc>Ovi kolonisti su u lošem raspoloženju i moguće je da će doći do manjeg udara na psihu u svakom trenutku:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>Ovi kolonisti su u lošem raspoloženju i moguće je da će doći do večeg udara na psihu u svakom trenutku:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>Ovi kolonisti su kritično pod stresom i možda će imati ekstremni (možda čak i nasilan) psihički lom u bilo kojem trenutku:\n\n{0}</BreakRiskExtremeDesc>
   <BreakRiskDescEnding>Provjerite potrebe ovih kolonista da otkrijte šta im smeta.\n\nDa bi se kolonisti osjećali bolje, možete im pružiti bolju hranu, dati im više vremena za zabavu, postaviti ih u lijepa okruženja, pustiti ih da piju i puše i još mnogo više.</BreakRiskDescEnding>
   
   <ColonistNeedsRescue>Kolonistu je potrebno spasiti</ColonistNeedsRescue>
@@ -89,7 +89,7 @@
   <PatientsAwaitingMedicalOperationDesc>Ovi pacijenti čekaju na operaciju:\n\n{0}\nProvjerite da li imate sve potrebno za operaciju kao i slobodnog doktora.</PatientsAwaitingMedicalOperationDesc>
 
   <FireInHomeArea>Vatra!</FireInHomeArea>
-  <FireInHomeAreaDesc>Izbila je vatra u području kolonije.</FireInHomeAreaDesc>
+  <FireInHomeAreaDesc>Izbila je vatra u kućnom području.</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>Teška bolest</PawnsWithLifeThreateningDisease>
   <PawnsWithLifeThreateningDiseaseDesc>Ljudi su pod rizikom smrti zbog teške bolesti:\n\n{0}\nOsigurajte im najbolju medicinsku pomoć.</PawnsWithLifeThreateningDiseaseDesc>

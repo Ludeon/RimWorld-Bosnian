@@ -2,66 +2,66 @@
 <LanguageData>
   
   <DesignatorCancel>Prekini</DesignatorCancel>
-  <DesignatorCancelDesc>Prekini određeno građenje, rudarenje, teglenje, žetvu, i sve druge naredbe.</DesignatorCancelDesc>
+  <DesignatorCancelDesc>Prekini određeno građenje, rudarenje, prenos, berbu<!-- prev. tegljenje, žetvu --> i sve druge naredbe.</DesignatorCancelDesc>
 
   <DesignatorCutPlants>Sjeci biljke</DesignatorCutPlants>
-  <DesignatorCutPlantsDesc>Označava bilje koje će biti osječeno i uništeno. Biljke će biti potpuno uklonenje, ako ima hrane ili bilo kojeg drugog resursa bit će uzet.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlantsDesc>Označava bilje koje će biti osječeno i uništeno. Biljke će biti potpuno uklonenje, a ako ima hrane ili bilo kojeg drugog resursa bit će ubran.<!-- prev. uzet --></DesignatorCutPlantsDesc>
 
   <DesignatorDeconstruct>Dekonstruiši</DesignatorDeconstruct>
   <DesignatorDeconstructDesc>Dekonstruiši ovo i povrati nazad dio resursa.</DesignatorDeconstructDesc>
 
   <DesignatorUninstall>Deinstaliraj</DesignatorUninstall>
-  <DesignatorUninstallDesc>Deinstaliraj ovo tako da može biti pomjereno, prodano, ili postavljeno negdje drugo.</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>Deinstaliraj ovo tako da može biti pomjereno, prodano ili postavljeno negdje drugo.</DesignatorUninstallDesc>
 
-  <DesignatorHarvest>Berba</DesignatorHarvest>
-  <DesignatorHarvestDesc>Označava biljke koje će biti pokošene za svoje produkte.</DesignatorHarvestDesc>
+  <DesignatorHarvest>Beri<!-- prev. Berba --></DesignatorHarvest>
+  <DesignatorHarvestDesc>Označava biljke čiji će plod ili resurs biti ubran.<!-- prev. koje će biti pokošene za svoje produkte. --></DesignatorHarvestDesc>
 
   <DesignatorHarvestWood>Sjeci drva</DesignatorHarvestWood>
-  <DesignatorHarvestWoodDesc>Označava drveće koje će biti osječeno za drvljad.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWoodDesc>Označava drveće koje će biti posječeno za drva. <!-- prev. osječeno... drvljad. --></DesignatorHarvestWoodDesc>
 
   <DesignatorHaulThings>Prenos stvari</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>Označava kamenje i druge stvari koje će biti prenijete do područja za odlaganje. Nije potrebno za stvari kao hrana ili mrtva tijela, jer su uvijek prenosivi.</DesignatorHaulThingsDesc>
-  <MustHaulHaulables>Može samo označiti stvari koje je potrebno prenijeti ali ne stvari koje se stalno prenose.</MustHaulHaulables>
+  <DesignatorHaulThingsDesc>Označava kamenje i druge stvari koje će biti prenesene <!-- prev. prenijete --> do područja za odlaganje. Nije potrebno za stvari kao što su hrana ili leševi,<!-- prev. mrtva tijela --> jer su uvijek prenosivi.</DesignatorHaulThingsDesc>
+  <MustHaulHaulables>Možete samo označiti stvari koje je potrebno prenijeti, ali ne i stvari koje se stalno prenose.</MustHaulHaulables>
 
-  <DesignatorHunt>Lov</DesignatorHunt>
-  <DesignatorHuntDesc>Označava životinje koje će biti ulovljene od strane vaših lovaca.</DesignatorHuntDesc>
+  <DesignatorHunt>Lovi</DesignatorHunt>
+  <DesignatorHuntDesc>Označava životinje koje će vaši lovci loviti.<!-- prev. koje će biti ulovljene od strane vaših lovaca--></DesignatorHuntDesc>
 
-  <DesignatorMine>Kopanje</DesignatorMine>
-  <DesignatorMineDesc>Oznaći područja kamena ili rude koja će biti iskopana.</DesignatorMineDesc>
+  <DesignatorMine>Kopaj <!-- prev. Kopanje --></DesignatorMine>
+  <DesignatorMineDesc>Označi područja kamena ili rude koje treba iskopati.<!-- prev. koja će biti iskopana --></DesignatorMineDesc>
 
   <DesignatorSmoothFloor>Izravnaj pod</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>Oznaći loš kameni teren za izravnavanje i uglađivanje.</DesignatorSmoothFloorDesc>
+  <DesignatorSmoothFloorDesc>Označi loš <!-- alt. neravan --> kameni teren za izravnavanje i uglađivanje.</DesignatorSmoothFloorDesc>
 
-  <DesignatorPlan>Planiranje</DesignatorPlan>
-  <DesignatorPlanDesc>Postavi planske dezignacije. Oni nemaju funkciju osim toga što vam pomažu da planirate ubuduće ekspanzije.</DesignatorPlanDesc>
+  <DesignatorPlan>Planiraj <!-- prev. Planiranje --></DesignatorPlan>
+  <DesignatorPlanDesc>Postavi planske oznake.<!-- prev. Postavi planske dezignacije. --> Oni nemaju funkciju osim toga što vam pomažu da planirate buduće ekspanzije.</DesignatorPlanDesc>
 
   <DesignatorPlanRemove>Ukloni planove</DesignatorPlanRemove>
-  <DesignatorPlanRemoveDesc>Ukloni planske dezignacije.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemoveDesc>Ukloni planske oznake.</DesignatorPlanRemoveDesc>
 
   <DesignatorAreaHomeExpand>Proširi kućno područje</DesignatorAreaHomeExpand>
-  <DesignatorAreaHomeExpandDesc>Kolonisti će popravljati građevine, čistiti podove, i gasiti vatre samo u području kuće.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeExpandDesc>Kolonisti će popravljati građevine, čistiti podove i gasiti vatre samo u području kuće.</DesignatorAreaHomeExpandDesc>
   <DesignatorAreaHomeClear>Ukloni kućno područje</DesignatorAreaHomeClear>
-  <DesignatorAreaHomeClearDesc>Uklanja kućno područje. Kolonisti neće više čistiti, poravljati, ili gasiti vatre ovdje..</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeClearDesc>Uklanja kućno područje. Kolonisti neće više čistiti, popravljati ili gasiti vatre ovdje.</DesignatorAreaHomeClearDesc>
 
-  <DesignatorAreaBuildRoofExpand>Dozvoli gradnju krova</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpand>Proširi područje gradnje krova<!-- prev. Dozvoli gradnju krova --></DesignatorAreaBuildRoofExpand>
   <DesignatorAreaBuildRoofExpandDesc>Kolonisti će sagraditi krov u ovom području.</DesignatorAreaBuildRoofExpandDesc>
   <DesignatorAreaBuildRoofClear>Ukloni područje gradnje krova</DesignatorAreaBuildRoofClear>
-  <DesignatorAreaBuildRoofClearDesc>\nUkloni područje gdje će kolonisti graditi krovove. Već postojeći krovovi će ostati, ali kolonisti neće više graditi.</DesignatorAreaBuildRoofClearDesc>
+  <DesignatorAreaBuildRoofClearDesc>\nUkloni područje gdje će kolonisti graditi krovove. Već postojeći krovovi će ostati, ali kolonisti ih neće više graditi.</DesignatorAreaBuildRoofClearDesc>
 
   <DesignatorAreaNoRoofExpand>Zabrani gradnju krova</DesignatorAreaNoRoofExpand>
-  <DesignatorAreaNoRoofExpandDesc>Kolonisti će ukloniti krov u ovom području (osim ako je iznad planina, što nije moguće ukloniti).</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofExpandDesc>Kolonisti će ukloniti krov u ovom području (osim ako je ispod planine, što nije moguće ukloniti).</DesignatorAreaNoRoofExpandDesc>
   <DesignatorAreaNoRoofClear>Ukloni zabranu gradnje krova</DesignatorAreaNoRoofClear>
   <DesignatorAreaNoRoofClearDesc>Uklanja područje zabrane gradnje krova, tako da kolonisti neće više uklanjati krov.</DesignatorAreaNoRoofClearDesc>
 
   <DesignatorAreaSnowClearExpand>Dozvoli čišćenje snijega</DesignatorAreaSnowClearExpand>
   <DesignatorAreaSnowClearExpandDesc>Napravi područje koje će kolonisti pokušati da održavaju čisto od snijega.</DesignatorAreaSnowClearExpandDesc>
   <DesignatorAreaSnowClearClear>Ukloni područje čisćenje snijega</DesignatorAreaSnowClearClear>
-  <DesignatorAreaSnowClearClearDesc>\nUklanja područje oznaćeno za čisćenje snijega. Kolonisti neće više pokušavati da održavaju ovo područje čisto od snijega.</DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearClearDesc>\nUklanja područje označeno za čišćenje snijega. Kolonisti neće više pokušavati da održavaju ovo područje čisto od snijega.</DesignatorAreaSnowClearClearDesc>
 
   <DesignatorExpandAreaAllowed>Proširi dozvoljeno područje</DesignatorExpandAreaAllowed>
-  <DesignatorExpandAreaAllowedDesc>Dozvoljena područja su definisana područja koja možete dodijeliti kolonistima. Kolonisti neće raditi poslove ili ispunjavati svoje potrebe izvan njima dopuštenog područja.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorExpandAreaAllowedDesc>Proširuje dozvoljeno područje.\n\nDozvoljena područja su definisana područja koja možete dodijeliti kolonistima. Kolonisti neće raditi poslove ili ispunjavati svoje potrebe izvan njima dopuštenog područja.</DesignatorExpandAreaAllowedDesc>
   <DesignatorClearAreaAllowed>Ukloni dozvoljeno područje</DesignatorClearAreaAllowed>
-  <DesignatorClearAreaAllowedDesc>Dozvoljena područja su definisana područja koja možete dodijeliti kolonistima. Kolonisti neće raditi poslove ili ispunjavati svoje potrebe izvan njima dopuštenog područja.</DesignatorClearAreaAllowedDesc>
+  <DesignatorClearAreaAllowedDesc>Uklanja dozvoljeno područje.\n\nDozvoljena područja su definisana područja koja možete dodijeliti kolonistima. Kolonisti neće raditi poslove ili ispunjavati svoje potrebe izvan njima dopuštenog područja.</DesignatorClearAreaAllowedDesc>
   <ManageAreas>Upravljaj područjima...</ManageAreas>
 
   <DesignatorGrowingZoneDesc>Napravi zonu gdje će vaši kolonisti pokušati da uzgajaju određenu vrstu biljke.</DesignatorGrowingZoneDesc>
@@ -71,35 +71,35 @@
   <DesignatorZoneCreateStorageDumpingDesc>Napravi mjesto za odlaganje gdje će vaši kolonisti spremati smeće.\nOva alatka također može proširiti već postojeće zone.</DesignatorZoneCreateStorageDumpingDesc>
 
   <DesignatorZoneDelete>Ukloni zonu</DesignatorZoneDelete>
-  <DesignatorZoneDeleteDesc>Ukloni zone, kao zone za skladištenje ili zone za rast.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDeleteDesc>Ukloni zone, kao što su zone za skladištenje ili zone za uzgoj biljaka.</DesignatorZoneDeleteDesc>
   
   <DesignatorClaim>Zauzmi</DesignatorClaim>
-  <DesignatorClaimDesc>Zauzmi neutralne građevine za koloniju, uključujući antičke ruševine i napuštene baze korištene za opsadu. Zauzete građevine mogu biti popravljane i održavane od strane vaših kolonista.</DesignatorClaimDesc>
+  <DesignatorClaimDesc>Zauzmi neutralne građevine za koloniju, uključujući drevne<!-- prev. antičke --> ruševine i napuštene baze korištene za opsadu. Zauzete građevine mogu biti popravljane i održavane od strane vaših kolonista.</DesignatorClaimDesc>
 
   <DesignatorRemoveFloor>Ukloni pod</DesignatorRemoveFloor>
   <DesignatorRemoveFloorDesc>Uklonite pod da bi otkrili teren ispod.</DesignatorRemoveFloorDesc>
 
   <DesignatorStrip>Skini</DesignatorStrip>
-  <DesignatorStripDesc>Skini odjeću sa mrtvih tijela i ranjenih.</DesignatorStripDesc>
+  <DesignatorStripDesc>Skini odjeću sa leševa i ranjenih osoba.</DesignatorStripDesc>
 
   <DesignatorRearmTrap>Aktiviraj zamku</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Re-aktiviraj iskorištenu zamku tako da se može ponovno koristiti.</DesignatorRearmTrapDesc>
+  <DesignatorRearmTrapDesc>Reaktiviraj iskorištenu zamku tako da se može ponovno koristiti.</DesignatorRearmTrapDesc>
 
   <DesignatorOpen>Otvori</DesignatorOpen>
   <DesignatorOpenDesc>Otvori pune grobove ili spremnike.</DesignatorOpenDesc>
-  
+
   <DesignatorSlaughter>Zakolji</DesignatorSlaughter>
-  <DesignatorSlaughterDesc>Zakolji ukročenu životinju.</DesignatorSlaughterDesc>
+  <DesignatorSlaughterDesc>Zakolji pripitomljenu životinju.</DesignatorSlaughterDesc>
 
-  <DesignatorTame>Ukroti</DesignatorTame>
-  <DesignatorTameDesc>Ukroti divlju životinju.</DesignatorTameDesc>
-
+  <DesignatorTame>Pripitomi</DesignatorTame>
+  <DesignatorTameDesc>Pripitomi divlju životinju.</DesignatorTameDesc>
+  <!-- pripitomiti > ukrotiti -->
 
   <!-- Failure messages -->
   <UnchosenStuff>Neizabran materijal.</UnchosenStuff>
   <TooCloseToMapEdge>Preblizu ivici mape.</TooCloseToMapEdge>
   <OutOfBounds>Izvan granica.</OutOfBounds>
-  <CannotPlaceInUndiscovered>Ne može se postaviti u neistraženim područjima..</CannotPlaceInUndiscovered>
+  <CannotPlaceInUndiscovered>Ne može se postaviti u neistraženim područjima.</CannotPlaceInUndiscovered>
   <InteractionSpotBlocked>Mjesto interakcije blokira {0}.</InteractionSpotBlocked>
   <InteractionSpotOutOfBounds>Mjesto interakcije je izvan granica.</InteractionSpotOutOfBounds>
   <InteractionSpotWillBeBlocked>Mjesto intereakcije će blokirati {0}.</InteractionSpotWillBeBlocked>
@@ -110,7 +110,8 @@
   <IdenticalBlueprintExists>Identičan nacrt već postoji ovdje.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Teren ovdje ne podržava to.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Mjesto je već zauzeto.</SpaceAlreadyOccupied>
-  <TerrainMustBeRemovable>Morate izabrati uklonljiv pod.</TerrainMustBeRemovable>
+  <SpaceBeingSmoothed>Mjesto se već poravnava.</SpaceBeingSmoothed>
+  <TerrainMustBeRemovable>Morate izabrati uklonjiv pod.</TerrainMustBeRemovable>
   
   
   <!-- Mouse attachments -->
