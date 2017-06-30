@@ -2,17 +2,17 @@
 <LanguageData>
 
   <Level>Nivo</Level>
-  <ProgressToNextLevel>Progres za sljedeći nivo</ProgressToNextLevel>
+  <ProgressToNextLevel>Napredak do sljedećeg nivoa</ProgressToNextLevel>
   <Experience>Iskustvo</Experience>
   <Passion>Strast</Passion>
-  <PassionNone>nema (saznaje x{0})</PassionNone>
-  <PassionMinor>zainteresovanost (saznaje x{0}, dobija radost)</PassionMinor>
-  <PassionMajor>vatrena strast (saznaje x{0}, dobija radost 2x)</PassionMajor>
-  <LearnedMaxToday>Naučio maksimalno danas ({0}/{1}, ubuduće saznavanje množi se sa {2})</LearnedMaxToday>
+  <PassionNone>nema (uči x{0})</PassionNone><!-- uči > saznaje -->
+  <PassionMinor>zainteresovanost (uči x{0}, dobija radost)</PassionMinor>
+  <PassionMajor>vatrena strast (uči x{0}, dobija radost 2x)</PassionMajor>
+  <LearnedMaxToday>Naučio maksimalno danas ({0}/{1}, buduće učenje množi se sa {2})</LearnedMaxToday>
   <EffectsAtLevel>Efekti na nivou {0}</EffectsAtLevel>
   <SkillMax>MAKS</SkillMax>
 
-  <Skill0>Jedva ćuo za to</Skill0>
+  <Skill0>Jedva čuo za to</Skill0>
   <Skill1>Potpuni početnik</Skill1>
   <Skill2>Početnik</Skill2>
   <Skill3>Osnovno poznavanje</Skill3>
@@ -30,8 +30,8 @@
   <Skill15>Planetno-klasni vještak</Skill15>
   <Skill16>Sistemsko-klasni vještak</Skill16>
   <Skill17>Poštovan vještak</Skill17>
-  <Skill18>Visioner</Skill18>
+  <Skill18>Vizionar</Skill18>
   <Skill19>Legendarno</Skill19>
-  <Skill20>Bogovski</Skill20>
+  <Skill20>Božanski</Skill20>
   
 </LanguageData>

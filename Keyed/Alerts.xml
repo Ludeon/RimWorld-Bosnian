@@ -9,7 +9,7 @@
   <BreakRiskMinorDesc>Ovi kolonisti su loše raspoloženi i moguće je da će doći do manjeg udara na psihu u svakom trenutku:\n\n{0}</BreakRiskMinorDesc>
   <BreakRiskMajorDesc>Ovi kolonisti su loše raspoloženi i moguće je da će doći do večeg udara na psihu u svakom trenutku:\n\n{0}</BreakRiskMajorDesc>
   <BreakRiskExtremeDesc>Ovi kolonisti su pod velikim stresom i možda će imati ekstremni (možda čak i nasilan) psihički lom u bilo kojem trenutku:\n\n{0}</BreakRiskExtremeDesc>
-  <BreakRiskDescEnding>Provjerite potrebe ovih kolonista da otkrijte šta im smeta.\n\nDa bi se kolonisti osjećali bolje, možete im pružiti bolju hranu, dati im više vremena za zabavu, postaviti ih u lijepa okruženja, pustiti ih da piju i puše i još mnogo više.</BreakRiskDescEnding>
+  <BreakRiskDescEnding>Provjerite potrebe ovih kolonista da otkrijte šta im smeta.\n\nDa bi se kolonisti osjećali bolje, možete im pružiti bolju hranu, dati im više vremena za radost, postaviti ih u lijepa okruženja, pustiti ih da piju i puše i još mnogo više.</BreakRiskDescEnding>
   
   <ColonistNeedsRescue>Kolonistu je potrebno spasiti</ColonistNeedsRescue>
   <ColonistsNeedRescue>Koloniste je potrebno spasiti</ColonistsNeedRescue>
@@ -61,8 +61,8 @@
   <NeedMealSource>Potreban izvor gotove hrane</NeedMealSource>
   <NeedMealSourceDesc>Vi nemate način spremanja gotove hrane.\n\nPotreban vam je šporet, logorska vatra, ili dozator hrane.\n\n(Ne smije se nalaziti u zatvoreničkoj ćeliji, jer ga tada kolonisti ne mogu korisiti.)</NeedMealSourceDesc>
 
-  <NeedJoySource>Potreban izvor zabave</NeedJoySource>
-  <NeedJoySourceDesc>Vaši kolonisti moraju da ispune svoju želju za zabavom, ali niste sagradili ni jedan izvor zabave.\n\nPomozite im tako kako bi izgradili šahovski stol, ili neki drugi izvor zabave.</NeedJoySourceDesc>
+  <NeedJoySource>Potreban izvor radosti</NeedJoySource>
+  <NeedJoySourceDesc>Vaši kolonisti moraju da ispune svoju želju za radošću, ali niste sagradili ni jedan izvor radosti.\n\nPomozite im tako što ćete izgraditi šahovski stol, ili neki drugi izvor radosti.</NeedJoySourceDesc>
 
   <NeedBatteries>Potrebne baterije</NeedBatteries>
   <NeedBatteriesDesc>Imate solarni generator ili vjetroturbine, ali ne i baterije. To znaći da ćete ostati bez struje svaki put kad sunce zađe ili se vjetar smiri.\n\nSagradite jednu ili dvije baterije da osigurate održivu struju.</NeedBatteriesDesc>

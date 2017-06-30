@@ -30,7 +30,7 @@
   <ChangeStoryteller>Odaberi pripovjedača</ChangeStoryteller>
   <AutosaveInterval>Period autosačuvanja</AutosaveInterval>
   <TemperatureMode>Jedinica temperature</TemperatureMode>
-  <ShowRealtimeClock>Prikaži potpuni sat</ShowRealtimeClock>
+  <ShowRealtimeClock>Prikaži stvarno vrijeme</ShowRealtimeClock>
   <MaxNumberOfPlayerHomes>Maksimalan broj kolonija: {0}</MaxNumberOfPlayerHomes>
   <PlantWindSway>Vjetar njiše biljke</PlantWindSway>
   <MaxPermadeathAutosaveIntervalInfo>Maksimalni period autosačuvanja u modu trajne smrti je {0} dan.</MaxPermadeathAutosaveIntervalInfo>

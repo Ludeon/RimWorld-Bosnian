@@ -30,10 +30,10 @@
   <DesignatorMineDesc>Označi područja kamena ili rude koje treba iskopati.<!-- prev. koja će biti iskopana --></DesignatorMineDesc>
 
   <DesignatorSmoothFloor>Izravnaj pod</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>Označi loš <!-- alt. neravan --> kameni teren za izravnavanje i uglađivanje.</DesignatorSmoothFloorDesc>
+  <DesignatorSmoothFloorDesc>Označi neravan kameni teren za izravnavanje i uglađivanje.</DesignatorSmoothFloorDesc>
 
-  <DesignatorPlan>Planiraj <!-- prev. Planiranje --></DesignatorPlan>
-  <DesignatorPlanDesc>Postavi planske oznake.<!-- prev. Postavi planske dezignacije. --> Oni nemaju funkciju osim toga što vam pomažu da planirate buduće ekspanzije.</DesignatorPlanDesc>
+  <DesignatorPlan>Postavi planove</DesignatorPlan>
+  <DesignatorPlanDesc>Postavi planske oznake.<!-- prev. Postavi planske dezignacije. --> Oni nemaju funkciju osim toga što vam pomažu da planirate buduće proširenje.</DesignatorPlanDesc>
 
   <DesignatorPlanRemove>Ukloni planove</DesignatorPlanRemove>
   <DesignatorPlanRemoveDesc>Ukloni planske oznake.</DesignatorPlanRemoveDesc>

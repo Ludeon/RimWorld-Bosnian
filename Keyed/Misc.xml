@@ -1,73 +1,74 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Autosaving>Autosaving</Autosaving>
-  <GameStartDialog>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive.</GameStartDialog>
-  <Colony>Colony</Colony>
-  <ChangeLanguageFromMainMenu>You can only change language from the options screen on the main menu.</ChangeLanguageFromMainMenu>
-  <AndLower>and</AndLower>
-  <DisabledLower>disabled</DisabledLower>
+  <Autosaving>Auto-sačuvanje</Autosaving>
+  <GameStartDialog>Zvuk sirena i kuckanja metala probudi vas troje iz krioničkog mirovanja. Jedva stižete do kapsula za spašavanje prije nego se svemirski brod uništi.\n\nNakon nekog vremena, sletite na ovu nepoznatu "ivičnu planetu".\n\nDok dijelovi uništenog broda padaju oko vas, vi se počinjete pripremati za preživljavanje.</GameStartDialog>
+  <Colony>Kolonija</Colony>
+  <ChangeLanguageFromMainMenu>Jezik možete samo promijeniti u opcijama u glavnom meniju.</ChangeLanguageFromMainMenu>
+  <AndLower>i</AndLower>
+  <DisabledLower>isključen</DisabledLower>
 
 
-  <VersionIndicator>Version {0}</VersionIndicator>
-  <DevelopmentBuildLower>development build</DevelopmentBuildLower>
-  <CompiledOn>Compiled {0}</CompiledOn>
-  <LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
+  <VersionIndicator>Verzija {0}</VersionIndicator>
+  <DevelopmentBuildLower>razvijačko izdanje</DevelopmentBuildLower>
+  <CompiledOn>Kompiliran {0}</CompiledOn>
+  <LoggedIntoSteamAs>Prijavljen u Steam kao {0}</LoggedIntoSteamAs>
 
   <!-- General-use words -->
-  <Yes>Yes</Yes>
-  <No>No</No>
-  <min>min</min>
-  <max>max</max>
-  <chance>chance</chance>
-  <context>context</context>
-  <multiplier>multiplier</multiplier>
-  <damage>damage</damage>
-  <radius>radius</radius>
-  <durationDays>duration (days)</durationDays>
-  <intervalDays>interval (days)</intervalDays>
-  <repeat>repeat</repeat>
+  <Yes>Da</Yes>
+  <No>ne</No>
+  <min>min.</min>
+  <max>maks.</max>
+  <chance>šansa</chance>
+  <context>kontekst</context>
+  <multiplier>faktor</multiplier>
+  <damage>šteta</damage>
+  <radius>radijus</radius>
+  <durationDays>trajanje (u danima)</durationDays>
+  <intervalDays>interval (u danima)</intervalDays>
+  <repeat>ponovo</repeat>
+  <default>standardno</default>
 
   <!-- Content generation-->
   
-	<MeatLabel>{0} meat</MeatLabel>
-  <MeatDesc>Raw butchered flesh. Can be cooked into meals, or eaten raw.</MeatDesc>
+	<MeatLabel>{0} meso</MeatLabel>
+  <MeatDesc>Sirovo meso. Može se skuhati u jelima, ili jesti sirovo.</MeatDesc>
 
-  <LeatherLabel>{0} leather</LeatherLabel>
-  <LeatherDesc>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</LeatherDesc>
+  <LeatherLabel>{0} koža</LeatherLabel>
+  <LeatherDesc>Štavljena koža. Tradicionalan i kvalitetan material za pravljenje odjeće i torbi.</LeatherDesc>
 
-  <CorpseLabel>{0} corpse</CorpseLabel>
-	<CorpseDesc>Dead body of a {0}.</CorpseDesc>
-  <DeadLabel>{0} (dead)</DeadLabel>
+  <CorpseLabel>{0} leš</CorpseLabel>
+	<CorpseDesc>Leš od {0}.</CorpseDesc>
+  <DeadLabel>{0} (mrtvac)</DeadLabel>
 
-  <RoughStoneTerrainLabel>rough {0}</RoughStoneTerrainLabel>
-  <RoughStoneTerrainDesc>Rough, natural {0} ground.</RoughStoneTerrainDesc>
-  <RoughHewnStoneTerrainLabel>rough-hewn {0}</RoughHewnStoneTerrainLabel>
-  <RoughHewnStoneTerrainDesc>Roughly cut natural {0} floor.</RoughHewnStoneTerrainDesc>
-  <SmoothStoneTerrainLabel>smooth {0}</SmoothStoneTerrainLabel>
-  <SmoothStoneTerrainDesc>Smoothed natural {0} floor.</SmoothStoneTerrainDesc>
+  <RoughStoneTerrainLabel>neravan {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Neravna, prirodna {0} zemlja.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>hrapav {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Hrapav prirodni {0} pod.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>glatki {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Uglađeni prirodni {0} pod.</SmoothStoneTerrainDesc>
 
-  <BlueprintLabelExtra> (blueprint)</BlueprintLabelExtra>
-  <FrameLabelExtra> (building)</FrameLabelExtra>
+  <BlueprintLabelExtra> (nacrt)</BlueprintLabelExtra>
+  <FrameLabelExtra> (građevina)</FrameLabelExtra>
 
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
-  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+  <ThingMadeOfStuffLabel>{1} od {0}</ThingMadeOfStuffLabel>
 
-  <SomeonesRoom>{0}'s {1}</SomeonesRoom>
-  <CouplesRoom>{0} and {1}'s {2}</CouplesRoom>
+  <SomeonesRoom>{1} od {0}</SomeonesRoom>
+  <CouplesRoom>{2} od {0} i {1}</CouplesRoom>
   
-  <VariousLabel>(various)</VariousLabel>
+  <VariousLabel>(raznoliki)</VariousLabel>
 
   <!-- History events -->
-  <ColonistDied>Colonist died</ColonistDied>
+  <ColonistDied>Kolonista preminuo</ColonistDied>
   
   <!-- Rotation -->
-  <North>North</North>
-  <South>South</South>
-  <West>West</West>
-  <East>East</East>
+  <North>Sjever</North>
+  <South>Jug</South>
+  <West>Zapad</West>
+  <East>Istok</East>
   
   
 </LanguageData>

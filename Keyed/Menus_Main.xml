@@ -33,9 +33,9 @@
   <PlanetCoverage>Pokrivenost planete</PlanetCoverage>
   <PlanetRainfall>Globalne padavine</PlanetRainfall>
   <PlanetTemperature>Globalna temperatura</PlanetTemperature>
-  <PlanetRainfall_Low>Niska</PlanetRainfall_Low>
-  <PlanetRainfall_Normal>Normalna</PlanetRainfall_Normal>
-  <PlanetRainfall_High>Visoka</PlanetRainfall_High>
+  <PlanetRainfall_Low>Niske</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>Normalne</PlanetRainfall_Normal>
+  <PlanetRainfall_High>Visoke</PlanetRainfall_High>
   <PlanetTemperature_Low>Niska</PlanetTemperature_Low>
   <PlanetTemperature_Normal>Normalna</PlanetTemperature_Normal>
   <PlanetTemperature_High>Visoka</PlanetTemperature_High>
@@ -97,7 +97,7 @@
   <ConfirmSteamWorkshopUpload>Da li ste sigurni da ovo želite postaviti i poslati na Steam Workshop?\n\nMorate se složiti sa uvjetima korištenja Steam Workshop-a. Pronađite ih ovdje:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <ConfirmContentAuthor>Očito trebate postavljati samo sadržaj koji ste vi napravili.\n\nDa li ste vi napravili ovaj sadržaj?</ConfirmContentAuthor>
   <Incompatible>Neuskladiv</Incompatible>
-  <TooMany>Previše (maksimalno {0}): </TooMany>
+  <TooMany>Previše (maks. {0}): </TooMany>
   <CanBeUpdatedOnWorkshop>Može se ažurirati na Workshop-u, pošto ste vi autor.</CanBeUpdatedOnWorkshop>
   
   <!--=========== Select storyteller ==========-->
@@ -147,9 +147,9 @@
   <ShortIdentifierDesc>Naziv ili nadimak lika.\n\nPrikazuje se u svakom trenutku. Može biti ime, prezime, ili potpuno poseban nadimak.</ShortIdentifierDesc>
   <LastNameDesc>Prezime lika.\n\nPrikazuje se samo u određenim menijima.</LastNameDesc>
   <Randomize>Nasumično</Randomize>
-  <AgeIndicator>godina {0}</AgeIndicator>
+  <AgeIndicator>{0} godina</AgeIndicator>
   <Backstory>Pozadina<!-- alt. Pozadinska priča --></Backstory>
-  <IncapableOf>Nesposoban za</IncapableOf>
+  <IncapableOf>Nesposobni za</IncapableOf>
   <Traits>Osobine</Traits>
   <PermanentMoodEffect>Trajni uticaj na raspoloženje</PermanentMoodEffect>
   <Skills>Sposobnosti</Skills>

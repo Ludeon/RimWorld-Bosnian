@@ -20,7 +20,7 @@
   <Credit_Moderator>Moderator</Credit_Moderator>
   <Credit_WikiMaster>Wiki urednik</Credit_WikiMaster>
 
-  <Credits_TitleLanguage>{0} jezik</Credits_TitleLanguage>
+  <Credits_TitleLanguage>{0} language</Credits_TitleLanguage>
   <Credit_Writer>Pisac</Credit_Writer>
   <Credit_Translator>Prevodilac</Credit_Translator>
   <Credit_OpenSourceLibraries>Biblioteke otvorenog koda (Open source libraries)</Credit_OpenSourceLibraries>
