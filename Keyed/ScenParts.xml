@@ -5,7 +5,8 @@
   
   <ScenPart_PlayerFaction>Your faction will be a {0}.</ScenPart_PlayerFaction>
 
-  <ScenPart_StartWithPawns>Start with {0} people.</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns>Start with {0} people, chosen from {1}.</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns_OutOf>chosen from</ScenPart_StartWithPawns_OutOf>
   <RandomPet>random pet</RandomPet>
 
   <ScenPart_StartingResearchFinished>Start with research: {0}</ScenPart_StartingResearchFinished>
@@ -35,7 +36,7 @@
 
   <ScenPart_StartWith>Start with</ScenPart_StartWith>
   <ScenPart_MapScatteredWith>Map is scattered with</ScenPart_MapScatteredWith>
-  <ScenPart_PermaMapCondition>Permanent map condition(s)</ScenPart_PermaMapCondition>
+  <ScenPart_PermaGameCondition>Permanent game condition(s)</ScenPart_PermaGameCondition>
   <ScenPart_DisableIncident>Incident(s) disabled</ScenPart_DisableIncident>
   <ScenPart_CreateIncident>Incident created</ScenPart_CreateIncident>
   <ScenPart_DisallowBuilding>Can never build</ScenPart_DisallowBuilding>

@@ -2,6 +2,8 @@
 <LanguageData>
 
   <JumpToLocation>Jump to location</JumpToLocation>
+  <PostponeLetter>Postpone</PostponeLetter>
+  <RejectLetter>Reject</RejectLetter>
   
   <LetterLabelFirstSummerWarning>Summer</LetterLabelFirstSummerWarning>
   <FirstSummerWarning>Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store several days' worth of food now, while you still can.\n\nYou can build a walk-in refrigeration room to prevent food from spoiling.\n\nAnd try to buy, steal, or make some parkas, or you'll freeze when you step outside.</FirstSummerWarning>
@@ -28,6 +30,8 @@
   <RecruitSuccess>{0} successfully recruited {1} ({2} chance).</RecruitSuccess>
   <RecruitFail>{0} failed to recruit {1} ({2} chance).</RecruitFail>
 
+  <RelatedPawnInvolvedInQuest>NAME is {0}'s {1}. If NAME dies, {0} will suffer from long-lasting grief. However, if you manage to rescue NAME, {0} will be very happy for a long time.</RelatedPawnInvolvedInQuest>
+
   <LetterLabelBirthday>Birthday</LetterLabelBirthday>
   <BirthdayChronological>It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday.</BirthdayChronological>
   <BirthdayBiologicalAgeInjuries>{0} has reached the biological age of {1}.\n\nUnfortunately, {0} has gained the following diseases due to aging:\n{2}</BirthdayBiologicalAgeInjuries>
@@ -35,6 +39,10 @@
   <LetterLabelNewDisease>Disease</LetterLabelNewDisease>
   <NewDisease>{0} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible.</NewDisease>
   <NewPartDisease>{0} has gotten sick from {3}. The infection is in HIS {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible.</NewPartDisease>
+
+  <PawnWasFormerlyColonist>{0} was formerly part of your faction.</PawnWasFormerlyColonist>
+  <PawnHasTheseRelationshipsWithColonists>{0} has these relationships with your colonists:</PawnHasTheseRelationshipsWithColonists>
+  <PrisonerRescueTimeout>The camp will disappear after {0} days. If you miss this opportunity, you may never hear from {1} again.</PrisonerRescueTimeout>
 
   <LetterLabelAncientShrineWarning>Ancient danger</LetterLabelAncientShrineWarning>
   <AncientShrineWarning>As {0} draws near the ancient wall, a sense of foreboding overcomes HIM. HECAP isn't sure why, but HE feels that this dusty structure may contain great danger.</AncientShrineWarning>
@@ -44,7 +52,7 @@
   <LetterLabelAnimalManhunterRevenge>{0} revenge</LetterLabelAnimalManhunterRevenge>
   <AnimalManhunterFromDamage>A {0} is attacking after being harmed!</AnimalManhunterFromDamage>
   <AnimalManhunterFromTaming>A {0} is attacking due to a taming attempt!</AnimalManhunterFromTaming>
-  <AnimalManhunterOthers>Other {0}s nearby have also become enraged!</AnimalManhunterOthers>
+  <AnimalManhunterOthers>Other {0} nearby have also become enraged!</AnimalManhunterOthers>
 
   <LetterFriendlyTrapSprungLabel>{0} hit trap</LetterFriendlyTrapSprungLabel>
   <LetterFriendlyTrapSprung>{0} has accidentally sprung a trap and taken damage from it.</LetterFriendlyTrapSprung>
@@ -62,7 +70,7 @@
 	<LetterLeaderChanged>{0} is no longer {3} of {1}.\n\nThe new {3} is {2}.</LetterLeaderChanged>
 	
   <MentalBreakLetterLabel>Mental break</MentalBreakLetterLabel>
-  <MentalBreakReason>The final straw was: {0}.</MentalBreakReason>
+  <FinalStraw>The final straw was: {0}.</FinalStraw>
   
   <!-- Related pawns -->
   <LetterLabelNoticedRelatedPawns>Relationship</LetterLabelNoticedRelatedPawns>
@@ -70,7 +78,7 @@
   <LetterRelatedPawnsRaidFriendly>There are people who have relationships with your colonists or prisoners in the arriving group of friendly {0}:</LetterRelatedPawnsRaidFriendly>
   <LetterRelatedPawnsNeutralGroup>There are people who have relationships with your colonists or prisoners in the arriving group:</LetterRelatedPawnsNeutralGroup>
   <LetterRelatedPawnsTradeShip>The orbital trader is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradeShip>
-  <LetterRelatedPawnsTradingWithFactionBase>The faction base is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithFactionBase>
+  <LetterRelatedPawnsTradingWithSettlement>The settlement is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithSettlement>
   <LetterRelatedPawnsTradingWithOtherCaravan>The caravan is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithOtherCaravan>
   
   <RelationshipAppendedLetterSuffix>(relationship)</RelationshipAppendedLetterSuffix>
@@ -104,7 +112,7 @@
 
   <!-- Prison break -->
   <LetterLabelPrisonBreak>Prison break</LetterLabelPrisonBreak>
-  <LetterPrisonBreak>Prisoners have staged a breakout! They've somehow defeated the door lock and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are unhappy, numerous, and healthy.</LetterPrisonBreak>
+  <LetterPrisonBreak>Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy.</LetterPrisonBreak>
   
   <!-- Party -->
   <LetterLabelNewParty>Party</LetterLabelNewParty>
@@ -137,11 +145,46 @@
   
   <!-- Faction base defeated -->
   <LetterLabelFactionBaseDefeated>Outpost destroyed</LetterLabelFactionBaseDefeated>
-  <LetterFactionBaseDefeated>The enemy outpost {0} has been destroyed.\n\nYou have {1} hours to collect items before your colonists reform the caravan.</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated>The enemy outpost {0} has been destroyed.\n\nYou have {1} to collect items before your colonists reform the caravan.</LetterFactionBaseDefeated>
   <LetterFactionBaseDefeated_FactionDestroyed>This was the last base of {0}, which means the faction does not exist anymore.</LetterFactionBaseDefeated_FactionDestroyed>
   
   <!-- Pawns lost due to map countdown -->
   <LetterLabelPawnsLostDueToMapCountdown>Left behind</LetterLabelPawnsLostDueToMapCountdown>
   <LetterPawnsLostDueToMapCountdown>Some of your animals or prisoners were left behind in the wilderness:\n\n{0}</LetterPawnsLostDueToMapCountdown>
+
+  <!-- Quest completed -->
+  <LetterLabelDefeatAllEnemiesQuestCompleted>Quest completed</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}.</LetterDefeatAllEnemiesQuestCompleted>
+
+  <!-- Found lump of precious resources -->
+  <LetterLabelFoundPreciousLump>Precious minerals found</LetterLabelFoundPreciousLump>
+  <LetterFoundPreciousLump>Your long-range mineral scanner has found a lump of precious resources nearby.\n\nWe don't know who or what - if anything - might be guarding it.</LetterFoundPreciousLump>
   
+  <!-- Sleeping mechanoids -->
+  <LetterLabelSleepingMechanoids>Sleeping mechanoids</LetterLabelSleepingMechanoids>
+  <LetterSleepingMechanoids>There are a few sleeping hostile mechanoids in this area.\n\nThe mechanoids may or may not wake up when you approach them, so beware.</LetterSleepingMechanoids>
+
+  <!-- Ambush -->
+  <LetterLabelAmbushInExistingMap>Ambush</LetterLabelAmbushInExistingMap>
+  <LetterAmbushInExistingMap>Your {0} have been ambushed!</LetterAmbushInExistingMap>
+
+  <!-- Peace talks -->
+  <LetterLabelPeaceTalks_Disaster>Peace talks disaster</LetterLabelPeaceTalks_Disaster>
+  <LetterPeaceTalks_Disaster>The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}.</LetterPeaceTalks_Disaster>
+  <LetterLabelPeaceTalks_Backfire>Peace talks backfire</LetterLabelPeaceTalks_Backfire>
+  <LetterPeaceTalks_Backfire>The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}.</LetterPeaceTalks_Backfire>
+  <LetterLabelPeaceTalks_TalksFlounder>Peace talks flounder</LetterLabelPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged.</LetterPeaceTalks_TalksFlounder>
+  <LetterLabelPeaceTalks_Success>Peace talks success</LetterLabelPeaceTalks_Success>
+  <LetterPeaceTalks_Success>The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}.</LetterPeaceTalks_Success>
+  <LetterLabelPeaceTalks_Triumph>Peace talks triumph</LetterLabelPeaceTalks_Triumph>
+  <LetterPeaceTalks_Triumph>The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift: {2}.</LetterPeaceTalks_Triumph>
+  <PeaceTalksSocialXPGain>{0}, your negotiator, has gained {1} social experience.</PeaceTalksSocialXPGain>
+
+  <!-- Run wild mental break -->
+  <LetterRunWildMentalBreak>{0} has decided to leave your faction and live with the animals.</LetterRunWildMentalBreak>
+
+  <!-- Catatonic mental break -->
+  <LetterCatatonicMentalBreak>{0} has a catatonic breakdown which will last several days.</LetterCatatonicMentalBreak>
+
 </LanguageData>
