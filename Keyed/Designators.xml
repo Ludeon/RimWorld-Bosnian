@@ -52,7 +52,9 @@
   <DesignatorAreaNoRoofExpandDesc>Kolonisti će ukloniti krov u ovom području (osim ako je iznad planina, što nije moguće ukloniti).</DesignatorAreaNoRoofExpandDesc>
   <DesignatorAreaNoRoofClear>Ukloni zabranu gradnje krova</DesignatorAreaNoRoofClear>
   <DesignatorAreaNoRoofClearDesc>Uklanja područje zabrane gradnje krova, tako da kolonisti neće više uklanjati krov.</DesignatorAreaNoRoofClearDesc>
-
+  <DesignatorAreaIgnoreRoofExpand>Ignoriši krov</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpandDesc>Kolonisti će ignorisati krovove u ovom području.</DesignatorAreaIgnoreRoofExpandDesc>
+  
   <DesignatorAreaSnowClearExpand>Dozvoli čišćenje snijega</DesignatorAreaSnowClearExpand>
   <DesignatorAreaSnowClearExpandDesc>Napravi područje koje će kolonisti pokušati da održavaju čisto od snijega.</DesignatorAreaSnowClearExpandDesc>
   <DesignatorAreaSnowClearClear>Ukloni područje čisćenje snijega</DesignatorAreaSnowClearClear>
