@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Confirm>Confirm</Confirm>
-  <GoBack>Go back</GoBack>
+  <Confirm>Potvrdi</Confirm>
+  <GoBack>Idi Nazad</GoBack>
   <OK>OK</OK>
   
   <!-- Game updated to new version -->
-  <GameUpdatedToNewVersionInitial>RimWorld has been updated from version {0} to version {1}.</GameUpdatedToNewVersionInitial>
-  <GameUpdatedToNewVersionSavesIncompatible>This may cause saved games and mods from the old version to stop working.</GameUpdatedToNewVersionSavesIncompatible>
-  <GameUpdatedToNewVersionSavesCompatible>Saved games from the old version should be compatible, however some mods may stop working.</GameUpdatedToNewVersionSavesCompatible>
+  <GameUpdatedToNewVersionInitial>RimWorld je ažuriran sa verzije {0} na verziju {1}.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionSavesIncompatible>Ovo može izazvati da starije sačuvane igre i modovi od prijašnjih verzija prestanu raditi.</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesCompatible>Sačuvane igre sa stare verzije bi trebale biti kompatibilne, al ipak postoji mogučnost da neki modovi prestanu raditi.</GameUpdatedToNewVersionSavesCompatible>
   <GameUpdatedToNewVersionNonSteam>Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions.</GameUpdatedToNewVersionNonSteam>
   <GameUpdatedToNewVersionSteam>If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this.</GameUpdatedToNewVersionSteam>
   
@@ -17,46 +17,46 @@
   <RecoveredFromErrorsText>It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog.</RecoveredFromErrorsText>
   
   <!-- Errors during loading -->
-  <ErrorWhileLoadingAssetsTitle>Error while loading assets</ErrorWhileLoadingAssetsTitle>
-  <ErrorWhileLoadingAssets>An error occurred while loading game assets. See error log for more information.</ErrorWhileLoadingAssets>
-  <ErrorWhileLoadingAssets_ModsInfo>The game is currently running with custom mods - they may or may not cause these problems.</ErrorWhileLoadingAssets_ModsInfo>
-  <ErrorWhileGeneratingMapTitle>Error while generating a map</ErrorWhileGeneratingMapTitle>
-  <ErrorWhileGeneratingMap>An error occurred while generating a new map. See error log for more information.</ErrorWhileGeneratingMap>
-  <ErrorWhileLoadingMapTitle>Error while loading a map</ErrorWhileLoadingMapTitle>
-  <ErrorWhileLoadingMap>An error occurred while loading a map. See error log for more information.</ErrorWhileLoadingMap>
+  <ErrorWhileLoadingAssetsTitle>Greška pri učitvanju podataka</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>Došlo je do greške pri učitavanju podataka igrice. Pogledajte zapinik greški za više informacija.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>Igrica je trenutno pokrenuta sa modovima - oni mogu a i ne moraju biti uzrok ovih problema.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>Greška pri generisanju mape</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>Došlo je do greške pri generisanju nove mape. Pogledajte zapisnik greški za više informacija.</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>Grežka pri učitavanju mape</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>Došlo je do greške pri učitavanju mape. Pogledajte zapisnik greški za više informacija.</ErrorWhileLoadingMap>
   
   <!-- Unloaded mod with an assembly -->
-  <ModsChanged>The mod list has changed. The game will now restart automatically.</ModsChanged>
+  <ModsChanged>Lista modova je se promijenila. Igrica će se automatski resetovati.</ModsChanged>
   <FailedToRestart>Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</FailedToRestart>
-  <Restarting>Restarting</Restarting>
+  <Restarting>Restartovanje</Restarting>
   
   <!-- Missing Steam -->
   <SteamClientMissing>Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
   
   <!-- Long events -->
-  <InitializingInterface>Initializing interface</InitializingInterface>
-  <UnloadingUnusedAssets>Unloading unused assets</UnloadingUnusedAssets>
-  <LoadingAllActiveMods>Loading all active mods</LoadingAllActiveMods>
-  <LoadingDefs>Loading defs</LoadingDefs>
-  <LoadingAssets>Loading assets</LoadingAssets>
-  <Initializing>Initializing</Initializing>
-  <LoadingWorld>Loading world</LoadingWorld>
-  <LoadingMap>Loading map</LoadingMap>
-  <InitializingGame>Initializing game</InitializingGame>
-  <SpawningAllThings>Spawning all things</SpawningAllThings>
-  <SpawningColonists>Spawning colonists</SpawningColonists>
+  <InitializingInterface>Inicijalizacija interfejsa</InitializingInterface>
+  <UnloadingUnusedAssets>Deinicijalizacija ne korištenih podataka</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>Učitavam sve aktivne modove</LoadingAllActiveMods>
+  <LoadingDefs>Učitavanje definicija</LoadingDefs>
+  <LoadingAssets>Učitavanje podataka</LoadingAssets>
+  <Initializing>Inicijalizacija</Initializing>
+  <LoadingWorld>Učitavanje svijeta</LoadingWorld>
+  <LoadingMap>Učitavanje mape</LoadingMap>
+  <InitializingGame>Inicijalizacija igre</InitializingGame>
+  <SpawningAllThings>Postavljanje svih stvari</SpawningAllThings>
+  <SpawningColonists>Postavljanje kolonista</SpawningColonists>
   
   <!-- Save/load -->
-  <SaveGameButton>Save</SaveGameButton>
-  <LoadGameButton>Load</LoadGameButton>
+  <SaveGameButton>Sačuvaj</SaveGameButton>
+  <LoadGameButton>Učitaj</LoadGameButton>
   <OverwriteButton>Overwrite</OverwriteButton>
-  <ConfirmDelete>Really delete {0}?</ConfirmDelete>
-  <DeleteThisSavegame>Delete this savegame.</DeleteThisSavegame>
-  <SavedAs>Saved as {0}.</SavedAs>
-  <NeedAName>Please enter a name.</NeedAName>
-  <LoadingLongEvent>Loading</LoadingLongEvent>
-  <SavingLongEvent>Saving</SavingLongEvent>
-  <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
+  <ConfirmDelete>Stvarno obrisati {0}?</ConfirmDelete>
+  <DeleteThisSavegame>Obriši ovaj save fajl.</DeleteThisSavegame>
+  <SavedAs>Sačuvano kao {0}.</SavedAs>
+  <NeedAName>Molimo unesite ime.</NeedAName>
+  <LoadingLongEvent>Učitavanje</LoadingLongEvent>
+  <SavingLongEvent>Spašavam</SavingLongEvent>
+  <PermadeathModeSaveSuffix>(TrajnaSmrt)</PermadeathModeSaveSuffix>
   <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
   <SaveIsFromDifferentGameBuild>We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work.</SaveIsFromDifferentGameBuild>
   <SaveIsFromThisGameBuild>Save data was saved with our game version and should work without issue.</SaveIsFromThisGameBuild>
