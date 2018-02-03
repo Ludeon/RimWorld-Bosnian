@@ -2,7 +2,7 @@
 Bosnian localisation project for RimWorld.
 
 ##### Translators:
-* Dazee *(inactive as of now)*
+* Dazee *(active)*
 * WentBerzerk
 
 ---
