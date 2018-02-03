@@ -8,7 +8,7 @@ Bosnian localisation project for RimWorld.
 ---
 
 ### Status:
-***Game version***: *0.17.1557*
+***Game version***: *0.18.1722*
 
 ***DefInjected***:
 
