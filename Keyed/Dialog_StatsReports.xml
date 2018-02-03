@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <StatsReport_BaseValue>Base value</StatsReport_BaseValue>
+  <StatsReport_BaseValue>Osnovna vrijednost</StatsReport_BaseValue>
   <StatsReport_RelevantTraits>Relevant traits</StatsReport_RelevantTraits>
   <StatsReport_RelevantGear>Relevant gear</StatsReport_RelevantGear>
   <StatsReport_RelevantHediffs>Relevant health conditions</StatsReport_RelevantHediffs>
   <StatsReport_LifeStage>Life stage</StatsReport_LifeStage>
-  <StatsReport_Material>Material</StatsReport_Material>
+  <StatsReport_Material>Materijal</StatsReport_Material>
   <StatsReport_CharacterQuality>Character quality</StatsReport_CharacterQuality>
-  <StatsReport_Skills>Skills</StatsReport_Skills>
+  <StatsReport_Skills>Vještine</StatsReport_Skills>
   <StatsReport_OtherStats>Other stats</StatsReport_OtherStats>
-	<StatsReport_Health>Health</StatsReport_Health>
-	<HealthFactorPercentImpact>{0} importance</HealthFactorPercentImpact>
-	<HealthOffsetScale>{0} impact</HealthOffsetScale>
-	<HealthFactorMaxImpact>{0} max</HealthFactorMaxImpact>
-  <HealthFactorAllowedDefect>if below {0}</HealthFactorAllowedDefect>
+	<StatsReport_Health>Zdravlje</StatsReport_Health>
+	<HealthFactorPercentImpact>{0} važnost</HealthFactorPercentImpact>
+	<HealthOffsetScale>{0} udar</HealthOffsetScale>
+	<HealthFactorMaxImpact>{0} maks</HealthFactorMaxImpact>
+  <HealthFactorAllowedDefect>ako ispod {0}</HealthFactorAllowedDefect>
 	<StatsReport_PostProcessed>Post-process curve</StatsReport_PostProcessed>
-  <StatsReport_FinalValue>Final value</StatsReport_FinalValue>
-  <StatsReport_MarketValueFromStuffsAndWork>Base market value calculated is from construction materials and work amount.</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_FinalValue>Finalna vrijednost</StatsReport_FinalValue>
+  <StatsReport_MarketValueFromStuffsAndWork>Osnovna tržišna vrijednost se dobiva iz uloženih materijala i uloženog rada.</StatsReport_MarketValueFromStuffsAndWork>
   <StatsReport_QualityMultiplier>Quality multiplier</StatsReport_QualityMultiplier>
   <StatsReport_AgeMultiplier>Multiplier for age {0}</StatsReport_AgeMultiplier>
   <StatsReport_HealthMultiplier>Multiplier for health {0}</StatsReport_HealthMultiplier>
   <StatsReport_MoodMultiplier>Multiplier for mood {0}</StatsReport_MoodMultiplier>
 	<StatsReport_LightMultiplier>Multiplier for light {0}</StatsReport_LightMultiplier>
 	<StatsReport_DifficultyMultiplier>Multiplier for difficulty {0}</StatsReport_DifficultyMultiplier>
-  <StatsReport_InBed>In bed</StatsReport_InBed>
+  <StatsReport_InBed>U krevetu</StatsReport_InBed>
   <StatsReport_Facilities>Facilities</StatsReport_Facilities>
   <StatsReport_BodySize>Multiplier for body size {0}</StatsReport_BodySize>
   <StatsReport_MeleeDPSExplanation>DPS = Melee damage * Melee hit chance / Cooldown in seconds</StatsReport_MeleeDPSExplanation>
@@ -38,8 +38,8 @@
 	<StatsReport_WornByCorpse>Multiplier for worn by corpse</StatsReport_WornByCorpse>
 	<AverageOfAllAttacks>average of all attacks</AverageOfAllAttacks>
 	<StatsReport_ScenarioFactor>Scenario</StatsReport_ScenarioFactor>
-  <StatsReport_IngredientsMass>Ingredients</StatsReport_IngredientsMass>
-  <StatsReport_PermanentlyDisabled>Permanently disabled.</StatsReport_PermanentlyDisabled>
+  <StatsReport_IngredientsMass>Sastojci</StatsReport_IngredientsMass>
+  <StatsReport_PermanentlyDisabled>Invalid.</StatsReport_PermanentlyDisabled>
   <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
   <StatsReport_AddedBodyPartsMass>Added body parts</StatsReport_AddedBodyPartsMass>
 
