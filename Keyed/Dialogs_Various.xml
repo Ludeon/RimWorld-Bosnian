@@ -31,7 +31,7 @@
   <Restarting>Restartovanje</Restarting>
   
   <!-- Missing Steam -->
-  <SteamClientMissing>Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
+  <SteamClientMissing>Neuspjela incijaliziacija Steam API. Mogući uzroci:\n\n-Steam nije pokrenut.\n-Pokrenuto izvan Steam-a bez steam_appid.txt .\n-Radi sa različitim privilegijama od Steam klijenta (npr "kao administrator")..\n\nU večini slučajeva, ponovno pokretanje vašeg računara će ispraviti ovaj problem.\n\nAli ionako možete igrati, ali Steam statistike neće biti spremljene i Steam mogučnosti neće biti dostupne.</SteamClientMissing>
   
   <!-- Long events -->
   <InitializingInterface>Inicijalizacija interfejsa</InitializingInterface>
@@ -81,12 +81,12 @@
   <PlayerFactionAndBaseGainsName>Your faction is now known as {0}, and this community is now known as {1}.</PlayerFactionAndBaseGainsName>
   
   <!-- Renaming -->
-  <NameIsInvalid>Please enter a valid name.</NameIsInvalid>
-  <NameIsInUse>Name is already in use.</NameIsInUse>
-  <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
+  <NameIsInvalid>Molimo unesite ispravno ime.</NameIsInvalid>
+  <NameIsInUse>Ime se već koristi.</NameIsInUse>
+  <ZoneGainsName>Zona se sada zove {0}.</ZoneGainsName>
   
   <!-- Pawn naming -->
-  <PawnGainsName>The colonist nick-name is now {0}.</PawnGainsName>
+  <PawnGainsName>Nadimak koloniste je sada {0}.</PawnGainsName>
 
   <!-- Save game incompatible warning -->
   <VersionMismatch>Version mismatch</VersionMismatch>
