@@ -2,45 +2,45 @@
 <LanguageData>
 
   <StatsReport_BaseValue>Osnovna vrijednost</StatsReport_BaseValue>
-  <StatsReport_RelevantTraits>Relevant traits</StatsReport_RelevantTraits>
-  <StatsReport_RelevantGear>Relevant gear</StatsReport_RelevantGear>
-  <StatsReport_RelevantHediffs>Relevant health conditions</StatsReport_RelevantHediffs>
-  <StatsReport_LifeStage>Life stage</StatsReport_LifeStage>
+  <StatsReport_RelevantTraits>Bitne osobine</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Bitna oprema</StatsReport_RelevantGear>
+  <StatsReport_RelevantHediffs>Bitne zdravstvene karakteristike</StatsReport_RelevantHediffs>
+  <StatsReport_LifeStage>Životna faza</StatsReport_LifeStage>
   <StatsReport_Material>Materijal</StatsReport_Material>
-  <StatsReport_CharacterQuality>Character quality</StatsReport_CharacterQuality>
+  <StatsReport_CharacterQuality>Kvalitet karaktera</StatsReport_CharacterQuality>
   <StatsReport_Skills>Vještine</StatsReport_Skills>
-  <StatsReport_OtherStats>Other stats</StatsReport_OtherStats>
+  <StatsReport_OtherStats>Ostale statistike</StatsReport_OtherStats>
 	<StatsReport_Health>Zdravlje</StatsReport_Health>
 	<HealthFactorPercentImpact>{0} važnost</HealthFactorPercentImpact>
 	<HealthOffsetScale>{0} udar</HealthOffsetScale>
 	<HealthFactorMaxImpact>{0} maks</HealthFactorMaxImpact>
   <HealthFactorAllowedDefect>ako ispod {0}</HealthFactorAllowedDefect>
-	<StatsReport_PostProcessed>Post-process curve</StatsReport_PostProcessed>
+	<StatsReport_PostProcessed>Poslije procesna krivulja</StatsReport_PostProcessed>
   <StatsReport_FinalValue>Finalna vrijednost</StatsReport_FinalValue>
   <StatsReport_MarketValueFromStuffsAndWork>Osnovna tržišna vrijednost se dobiva iz uloženih materijala i uloženog rada.</StatsReport_MarketValueFromStuffsAndWork>
-  <StatsReport_QualityMultiplier>Quality multiplier</StatsReport_QualityMultiplier>
-  <StatsReport_AgeMultiplier>Multiplier for age {0}</StatsReport_AgeMultiplier>
-  <StatsReport_HealthMultiplier>Multiplier for health {0}</StatsReport_HealthMultiplier>
-  <StatsReport_MoodMultiplier>Multiplier for mood {0}</StatsReport_MoodMultiplier>
-	<StatsReport_LightMultiplier>Multiplier for light {0}</StatsReport_LightMultiplier>
-	<StatsReport_DifficultyMultiplier>Multiplier for difficulty {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_QualityMultiplier>Množilac kvaliteta</StatsReport_QualityMultiplier>
+  <StatsReport_AgeMultiplier>Množilac za godine {0}</StatsReport_AgeMultiplier>
+  <StatsReport_HealthMultiplier>Množilac za zdravlje {0}</StatsReport_HealthMultiplier>
+  <StatsReport_MoodMultiplier>Množilac za raspoloženje {0}</StatsReport_MoodMultiplier>
+	<StatsReport_LightMultiplier>Množilac za svjetlost {0}</StatsReport_LightMultiplier>
+	<StatsReport_DifficultyMultiplier>Množilac za težinu {0}</StatsReport_DifficultyMultiplier>
   <StatsReport_InBed>U krevetu</StatsReport_InBed>
-  <StatsReport_Facilities>Facilities</StatsReport_Facilities>
-  <StatsReport_BodySize>Multiplier for body size {0}</StatsReport_BodySize>
-  <StatsReport_MeleeDPSExplanation>DPS = Melee damage * Melee hit chance / Cooldown in seconds</StatsReport_MeleeDPSExplanation>
+  <StatsReport_Facilities>Postrojenja</StatsReport_Facilities>
+  <StatsReport_BodySize>Množilac za veličinu tijela {0}</StatsReport_BodySize>
+  <StatsReport_MeleeDPSExplanation>DPS = Melee šteta * Melee šansa za udarac / Hlađenje u sekundama</StatsReport_MeleeDPSExplanation>
   <StatsReport_MeleeDamage>Melee damage</StatsReport_MeleeDamage>
-  <StatsReport_Cooldown>Cooldown</StatsReport_Cooldown>
-  <StatsReport_MeleeHitChance>Melee hit chance</StatsReport_MeleeHitChance>
+  <StatsReport_Cooldown>Hlađenje</StatsReport_Cooldown>
+  <StatsReport_MeleeHitChance>Melee šansa za udarac</StatsReport_MeleeHitChance>
   <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
-  <StatsReport_LifeExpectancy>Life expectancy</StatsReport_LifeExpectancy>
-  <StatsReport_MissingBodyParts>Multiplier for missing body parts</StatsReport_MissingBodyParts>
-  <StatsReport_GearAndInventoryMass>Gear and inventory</StatsReport_GearAndInventoryMass>
-	<StatsReport_WornByCorpse>Multiplier for worn by corpse</StatsReport_WornByCorpse>
-	<AverageOfAllAttacks>average of all attacks</AverageOfAllAttacks>
+  <StatsReport_LifeExpectancy>Životni vijek</StatsReport_LifeExpectancy>
+  <StatsReport_MissingBodyParts>Množilac za nedostajanje dijelova tijela</StatsReport_MissingBodyParts>
+  <StatsReport_GearAndInventoryMass>Inventar i oprema</StatsReport_GearAndInventoryMass>
+	<StatsReport_WornByCorpse>Množilac za kada je mrtvac nosio</StatsReport_WornByCorpse>
+	<AverageOfAllAttacks>prosjećno od svih napada</AverageOfAllAttacks>
 	<StatsReport_ScenarioFactor>Scenario</StatsReport_ScenarioFactor>
   <StatsReport_IngredientsMass>Sastojci</StatsReport_IngredientsMass>
   <StatsReport_PermanentlyDisabled>Invalid.</StatsReport_PermanentlyDisabled>
   <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
-  <StatsReport_AddedBodyPartsMass>Added body parts</StatsReport_AddedBodyPartsMass>
+  <StatsReport_AddedBodyPartsMass>Dodani dijelovi tijela</StatsReport_AddedBodyPartsMass>
 
 </LanguageData>
