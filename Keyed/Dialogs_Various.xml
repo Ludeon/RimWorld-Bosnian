@@ -13,8 +13,8 @@
   <GameUpdatedToNewVersionSteam>If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this.</GameUpdatedToNewVersionSteam>
   
   <!-- Recovered from errors caused by mods -->
-  <RecoveredFromErrorsDialogTitle>Recovered from incompatible or corrupted mods errors</RecoveredFromErrorsDialogTitle>
-  <RecoveredFromErrorsText>It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog.</RecoveredFromErrorsText>
+  <RecoveredFromErrorsDialogTitle>Oporavak od nekompatibilnih ili koruptovani modova,koji su izazivali greške</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>Izgleda da su neki od uključenih modova izazivali greške.\n\nNisu bili međusobno kompatibilni, napravljeni su za drugu verziju RimWorlda, ili su bili koruptovani.\n\nSvi su modovi isključeni i mogu se ponovo uključiti u mods meniju.</RecoveredFromErrorsText>
   
   <!-- Errors during loading -->
   <ErrorWhileLoadingAssetsTitle>Greška pri učitvanju podataka</ErrorWhileLoadingAssetsTitle>
@@ -57,14 +57,14 @@
   <LoadingLongEvent>Učitavanje</LoadingLongEvent>
   <SavingLongEvent>Spašavam</SavingLongEvent>
   <PermadeathModeSaveSuffix>(TrajnaSmrt)</PermadeathModeSaveSuffix>
-  <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
-  <SaveIsFromDifferentGameBuild>We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work.</SaveIsFromDifferentGameBuild>
-  <SaveIsFromThisGameBuild>Save data was saved with our game version and should work without issue.</SaveIsFromThisGameBuild>
-  <SaveIsUnknownFormat>Save data is in an unknown format and almost certainly will not load properly.</SaveIsUnknownFormat>
-  <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information.</ProblemSavingFile>
-  <LoadAnyway>Load anyway</LoadAnyway>
-  <ChangeLoadedMods>Load mod list from save</ChangeLoadedMods>
-  <MissingMods>Some mods are unavailable, and need to be installed</MissingMods>
+  <SaveIsFromDifferentGameVersion>Koristimo verziju {0} ali sačuvani podatci su na {1}, verzije se skroz razlikuju.\n\nUčitavanje ovih podataka vjerovatno neće uspjeti.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>Koristimo verziju {0} ali sačuvani podatci su na {1}, razlikuje se samo build.\n\nUčitavanje ovih podataka bi trebalo biti uspješno.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>Sačuvani podatci su sačuvani sa ovom verzijom igre i trebalo bi sve raditi bez greške.</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>Sačuvani podatci su u nepoznatom formatu i sigurno se neće normalno učitati.</SaveIsUnknownFormat>
+  <ProblemSavingFile>Došlo je do problema prilikom sačuvanja fajla {0}:\n\n{1}\n\nPogledajte zapisnik greški za više informacija.</ProblemSavingFile>
+  <LoadAnyway>Ipak učitaj</LoadAnyway>
+  <ChangeLoadedMods>Učitaj mod listu iz sačuvanog fajla</ChangeLoadedMods>
+  <MissingMods>Neki modovi nisu dostupni, i moraju se instalirati</MissingMods>
   
   <!-- Player faction naming -->
   <NamePlayerFactionMessage>{0} thinks that you should give your faction a name. What should your faction be called?</NamePlayerFactionMessage>
