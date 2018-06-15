@@ -13,7 +13,7 @@
   
   <Credit_SpecialThanks>Posebna zahvala</Credit_SpecialThanks>
 
-  <Credits_TitleCommunity>Dobrovoljni iz zajednice</Credits_TitleCommunity>
+  <Credits_TitleCommunity>Volonteri</Credits_TitleCommunity>
   <Credit_Tester>Tester</Credit_Tester>
   <Credit_ModDonation>Donator za modove</Credit_ModDonation>
   <Credit_WritingDonation>Donator za pisanje</Credit_WritingDonation>
@@ -24,7 +24,7 @@
   <Credit_Writer>Pisac</Credit_Writer>
   <Credit_Translator>Prevodilac</Credit_Translator>
   <Credit_OpenSourceLibraries>Biblioteke otvorenog koda (Open source libraries)</Credit_OpenSourceLibraries>
-  <Credit_NoiseGeneration>Noise generation<!-- TBD --></Credit_NoiseGeneration>
+  <Credit_NoiseGeneration>Noise generation</Credit_NoiseGeneration>
 
   <ThanksForPlaying>Hvala vam što ste igrali!</ThanksForPlaying>
 
